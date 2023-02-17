@@ -1,0 +1,3889 @@
+{ "GlubinaPromerz":[
+ {
+  "region": "Московский регион", 
+  "city": "Москва",
+  "clayAndLoam": 1.35,
+  "sandyLoam": 1.6400000000000001,
+  "sand": 1.76,
+  "CoarseСlasticSoils": 2
+ },
+ {
+  "region": "Московская область",
+  "city": "Дубна",
+  "clayAndLoam": 1.45,
+  "sandyLoam": 1.69,
+  "sand": 1.8199999999999998,
+  "CoarseСlasticSoils": 2.05
+ },
+ {
+  "region": "Московская область",
+  "city": "Талдом",
+  "clayAndLoam": 1.46,
+  "sandyLoam": 1.71,
+  "sand": 1.81,
+  "CoarseСlasticSoils": 2.08
+ },
+ {
+  "region": "Московская область",
+  "city": "Клин",
+  "clayAndLoam": 1.3900000000000001,
+  "sandyLoam": 1.69,
+  "sand": 1.8,
+  "CoarseСlasticSoils": 2.04
+ },
+ {
+  "region": "Московская область",
+  "city": "Сергиев Посад",
+  "clayAndLoam": 1.4,
+  "sandyLoam": 1.67,
+  "sand": 1.81,
+  "CoarseСlasticSoils": 2.05
+ },
+ {
+  "region": "Московская область",
+  "city": "Солнечногорск",
+  "clayAndLoam": 1.31,
+  "sandyLoam": 1.65,
+  "sand": 1.77,
+  "CoarseСlasticSoils": 2.02
+ },
+ {
+  "region": "Московская область",
+  "city": "Волоколамск",
+  "clayAndLoam": 1.27,
+  "sandyLoam": 1.6099999999999999,
+  "sand": 1.72,
+  "CoarseСlasticSoils": 1.94
+ },
+ {
+  "region": "Московская область",
+  "city": "Шаховская",
+  "clayAndLoam": 1.29,
+  "sandyLoam": 1.62,
+  "sand": 1.76,
+  "CoarseСlasticSoils": 1.98
+ },
+ {
+  "region": "Московская область",
+  "city": "Истра",
+  "clayAndLoam": 1.27,
+  "sandyLoam": 1.63,
+  "sand": 1.75,
+  "CoarseСlasticSoils": 1.99
+ },
+ {
+  "region": "Московская область",
+  "city": "Лобня",
+  "clayAndLoam": 1.34,
+  "sandyLoam": 1.6099999999999999,
+  "sand": 1.73,
+  "CoarseСlasticSoils": 1.96
+ },
+ {
+  "region": "Московская область",
+  "city": "Пушкино",
+  "clayAndLoam": 1.33,
+  "sandyLoam": 1.6,
+  "sand": 1.74,
+  "CoarseСlasticSoils": 1.94
+ },
+ {
+  "region": "Московская область",
+  "city": "Кашира",
+  "clayAndLoam": 1.4,
+  "sandyLoam": 1.7,
+  "sand": 1.83,
+  "CoarseСlasticSoils": 2.07
+ },
+ {
+  "region": "Московская область",
+  "city": "Дмитров",
+  "clayAndLoam": 1.38,
+  "sandyLoam": 1.6800000000000002,
+  "sand": 1.8,
+  "CoarseСlasticSoils": 2.04
+ },
+ {
+  "region": "Московская область",
+  "city": "Ногинск",
+  "clayAndLoam": 1.33,
+  "sandyLoam": 1.65,
+  "sand": 1.75,
+  "CoarseСlasticSoils": 1.98
+ },
+ {
+  "region": "Московская область",
+  "city": "Орехово Зуево",
+  "clayAndLoam": 1.29,
+  "sandyLoam": 1.5699999999999998,
+  "sand": 1.65,
+  "CoarseСlasticSoils": 1.95
+ },
+ {
+  "region": "Московская область",
+  "city": "Раменское",
+  "clayAndLoam": 1.25,
+  "sandyLoam": 1.55,
+  "sand": 1.6400000000000001,
+  "CoarseСlasticSoils": 1.9300000000000002
+ },
+ {
+  "region": "Московская область",
+  "city": "Звенигород",
+  "clayAndLoam": 1.28,
+  "sandyLoam": 1.56,
+  "sand": 1.69,
+  "CoarseСlasticSoils": 1.98
+ },
+ {
+  "region": "Московская область",
+  "city": "Можайск",
+  "clayAndLoam": 1.25,
+  "sandyLoam": 1.55,
+  "sand": 1.67,
+  "CoarseСlasticSoils": 1.96
+ },
+ {
+  "region": "Московская область",
+  "city": "Подольск",
+  "clayAndLoam": 1.24,
+  "sandyLoam": 1.53,
+  "sand": 1.6400000000000001,
+  "CoarseСlasticSoils": 1.95
+ },
+ {
+  "region": "Московская область",
+  "city": "Домодедово",
+  "clayAndLoam": 1.23,
+  "sandyLoam": 1.52,
+  "sand": 1.63,
+  "CoarseСlasticSoils": 1.96
+ },
+ {
+  "region": "Московская область",
+  "city": "Наро-Фоминск",
+  "clayAndLoam": 1.21,
+  "sandyLoam": 1.5,
+  "sand": 1.6,
+  "CoarseСlasticSoils": 1.9300000000000002
+ },
+ {
+  "region": "Московская область",
+  "city": "Чехов",
+  "clayAndLoam": 1.26,
+  "sandyLoam": 1.5699999999999998,
+  "sand": 1.67,
+  "CoarseСlasticSoils": 1.97
+ },
+ {
+  "region": "Московская область",
+  "city": "Коломна",
+  "clayAndLoam": 1.25,
+  "sandyLoam": 1.52,
+  "sand": 1.62,
+  "CoarseСlasticSoils": 1.95
+ },
+ {
+  "region": "Московская область",
+  "city": "Серпухов",
+  "clayAndLoam": 1.27,
+  "sandyLoam": 1.58,
+  "sand": 1.69,
+  "CoarseСlasticSoils": 1.98
+ },
+ {
+  "region": "Адыгея Республика",
+  "city": "Майкоп",
+  "clayAndLoam": 0.29,
+  "sandyLoam": 0.35,
+  "sand": 0.38,
+  "CoarseСlasticSoils": 0.43
+ },
+ {
+  "region": "Алтайский край",
+  "city": "Алейск",
+  "clayAndLoam": 1.88,
+  "sandyLoam": 2.29,
+  "sand": 2.45,
+  "CoarseСlasticSoils": 2.7800000000000002
+ },
+ {
+  "region": "Алтайский край",
+  "city": "Барнаул",
+  "clayAndLoam": 1.76,
+  "sandyLoam": 2.14,
+  "sand": 2.29,
+  "CoarseСlasticSoils": 2.6
+ },
+ {
+  "region": "Алтайский край",
+  "city": "Беля",
+  "clayAndLoam": 1.3,
+  "sandyLoam": 1.58,
+  "sand": 1.7,
+  "CoarseСlasticSoils": 1.92
+ },
+ {
+  "region": "Алтайский край",
+  "city": "Бийск-Зональная",
+  "clayAndLoam": 1.77,
+  "sandyLoam": 2.16,
+  "sand": 2.31,
+  "CoarseСlasticSoils": 2.62
+ },
+ {
+  "region": "Алтайский край",
+  "city": "Змеиногорск",
+  "clayAndLoam": 1.67,
+  "sandyLoam": 2.03,
+  "sand": 2.17,
+  "CoarseСlasticSoils": 2.46
+ },
+ {
+  "region": "Алтайский край",
+  "city": "Катанда",
+  "clayAndLoam": 2.09,
+  "sandyLoam": 2.55,
+  "sand": 2.73,
+  "CoarseСlasticSoils": 3.09
+ },
+ {
+  "region": "Алтайский край",
+  "city": "Кош-Агач",
+  "clayAndLoam": 2.38,
+  "sandyLoam": 2.9,
+  "sand": 3.11,
+  "CoarseСlasticSoils": 3.52
+ },
+ {
+  "region": "Алтайский край",
+  "city": "Онгудай",
+  "clayAndLoam": 1.99,
+  "sandyLoam": 2.42,
+  "sand": 2.59,
+  "CoarseСlasticSoils": 2.94
+ },
+ {
+  "region": "Алтайский край",
+  "city": "Родино",
+  "clayAndLoam": 1.8900000000000001,
+  "sandyLoam": 2.3,
+  "sand": 2.46,
+  "CoarseСlasticSoils": 2.79
+ },
+ {
+  "region": "Алтайский край",
+  "city": "Рубцовск",
+  "clayAndLoam": 1.76,
+  "sandyLoam": 2.14,
+  "sand": 2.29,
+  "CoarseСlasticSoils": 2.59
+ },
+ {
+  "region": "Алтайский край",
+  "city": "Славгород",
+  "clayAndLoam": 1.8399999999999999,
+  "sandyLoam": 2.24,
+  "sand": 2.4,
+  "CoarseСlasticSoils": 2.7199999999999998
+ },
+ {
+  "region": "Алтайский край",
+  "city": "Тогул",
+  "clayAndLoam": 1.8399999999999999,
+  "sandyLoam": 2.24,
+  "sand": 2.4,
+  "CoarseСlasticSoils": 2.7199999999999998
+ },
+ {
+  "region": "Амурская область",
+  "city": "Архара",
+  "clayAndLoam": 2.2,
+  "sandyLoam": 2.68,
+  "sand": 2.87,
+  "CoarseСlasticSoils": 3.25
+ },
+ {
+  "region": "Амурская область",
+  "city": "Белогорск",
+  "clayAndLoam": 2.27,
+  "sandyLoam": 2.76,
+  "sand": 2.95,
+  "CoarseСlasticSoils": 3.34
+ },
+ {
+  "region": "Амурская область",
+  "city": "Благовещенск",
+  "clayAndLoam": 2.03,
+  "sandyLoam": 2.47,
+  "sand": 2.65,
+  "CoarseСlasticSoils": 3
+ },
+ {
+  "region": "Амурская область",
+  "city": "Бомнак",
+  "clayAndLoam": 2.51,
+  "sandyLoam": 3.05,
+  "sand": 3.27,
+  "CoarseСlasticSoils": 3.7
+ },
+ {
+  "region": "Амурская область",
+  "city": "Братолюбовка",
+  "clayAndLoam": 2.33,
+  "sandyLoam": 2.83,
+  "sand": 3.03,
+  "CoarseСlasticSoils": 3.44
+ },
+ {
+  "region": "Амурская область",
+  "city": "Бысса",
+  "clayAndLoam": 2.47,
+  "sandyLoam": 3,
+  "sand": 3.21,
+  "CoarseСlasticSoils": 3.64
+ },
+ {
+  "region": "Амурская область",
+  "city": "Гош",
+  "clayAndLoam": 2.48,
+  "sandyLoam": 3.01,
+  "sand": 3.23,
+  "CoarseСlasticSoils": 3.65
+ },
+ {
+  "region": "Амурская область",
+  "city": "Дамбуки",
+  "clayAndLoam": 2.57,
+  "sandyLoam": 3.13,
+  "sand": 3.35,
+  "CoarseСlasticSoils": 3.8
+ },
+ {
+  "region": "Амурская область",
+  "city": "Ерофей Павлович",
+  "clayAndLoam": 2.43,
+  "sandyLoam": 2.96,
+  "sand": 3.17,
+  "CoarseСlasticSoils": 3.59
+ },
+ {
+  "region": "Амурская область",
+  "city": "Завитинск",
+  "clayAndLoam": 2.27,
+  "sandyLoam": 2.76,
+  "sand": 2.96,
+  "CoarseСlasticSoils": 3.36
+ },
+ {
+  "region": "Амурская область",
+  "city": "Зея",
+  "clayAndLoam": 2.49,
+  "sandyLoam": 3.03,
+  "sand": 3.25,
+  "CoarseСlasticSoils": 3.68
+ },
+ {
+  "region": "Амурская область",
+  "city": "Норский Склад",
+  "clayAndLoam": 2.49,
+  "sandyLoam": 3.03,
+  "sand": 3.25,
+  "CoarseСlasticSoils": 3.68
+ },
+ {
+  "region": "Амурская область",
+  "city": "Огорон",
+  "clayAndLoam": 2.48,
+  "sandyLoam": 3.01,
+  "sand": 3.23,
+  "CoarseСlasticSoils": 3.65
+ },
+ {
+  "region": "Амурская область",
+  "city": "Поярково",
+  "clayAndLoam": 2.26,
+  "sandyLoam": 2.75,
+  "sand": 2.95,
+  "CoarseСlasticSoils": 3.34
+ },
+ {
+  "region": "Амурская область",
+  "city": "Свободный",
+  "clayAndLoam": 2.33,
+  "sandyLoam": 2.83,
+  "sand": 3.04,
+  "CoarseСlasticSoils": 3.44
+ },
+ {
+  "region": "Амурская область",
+  "city": "Сковородино",
+  "clayAndLoam": 2.47,
+  "sandyLoam": 3,
+  "sand": 3.22,
+  "CoarseСlasticSoils": 3.64
+ },
+ {
+  "region": "Амурская область",
+  "city": "Средняя Нюкжа",
+  "clayAndLoam": 2.83,
+  "sandyLoam": 3.44,
+  "sand": 3.68,
+  "CoarseСlasticSoils": 4.17
+ },
+ {
+  "region": "Амурская область",
+  "city": "Тыган-Уркан",
+  "clayAndLoam": 2.41,
+  "sandyLoam": 2.93,
+  "sand": 3.14,
+  "CoarseСlasticSoils": 3.55
+ },
+ {
+  "region": "Амурская область",
+  "city": "Тында",
+  "clayAndLoam": 2.68,
+  "sandyLoam": 3.26,
+  "sand": 3.5,
+  "CoarseСlasticSoils": 3.96
+ },
+ {
+  "region": "Амурская область",
+  "city": "Унаха",
+  "clayAndLoam": 2.61,
+  "sandyLoam": 3.17,
+  "sand": 3.4,
+  "CoarseСlasticSoils": 3.85
+ },
+ {
+  "region": "Амурская область",
+  "city": "Усть-Нюкжа",
+  "clayAndLoam": 2.62,
+  "sandyLoam": 3.18,
+  "sand": 3.41,
+  "CoarseСlasticSoils": 3.86
+ },
+ {
+  "region": "Амурская область",
+  "city": "Черняево",
+  "clayAndLoam": 2.32,
+  "sandyLoam": 2.82,
+  "sand": 3.02,
+  "CoarseСlasticSoils": 3.43
+ },
+ {
+  "region": "Амурская область",
+  "city": "Шимановск",
+  "clayAndLoam": 2.35,
+  "sandyLoam": 2.86,
+  "sand": 3.06,
+  "CoarseСlasticSoils": 3.4699999999999998
+ },
+ {
+  "region": "Амурская область",
+  "city": "Экимчан",
+  "clayAndLoam": 2.54,
+  "sandyLoam": 3.09,
+  "sand": 3.31,
+  "CoarseСlasticSoils": 3.75
+ },
+ {
+  "region": "Архангельская область",
+  "city": "Архангельск",
+  "clayAndLoam": 1.5699999999999998,
+  "sandyLoam": 1.9100000000000001,
+  "sand": 2.05,
+  "CoarseСlasticSoils": 2.32
+ },
+ {
+  "region": "Архангельская область",
+  "city": "Борковская",
+  "clayAndLoam": 1.96,
+  "sandyLoam": 2.39,
+  "sand": 2.56,
+  "CoarseСlasticSoils": 2.89
+ },
+ {
+  "region": "Архангельская область",
+  "city": "Емецк",
+  "clayAndLoam": 1.62,
+  "sandyLoam": 1.97,
+  "sand": 2.11,
+  "CoarseСlasticSoils": 2.39
+ },
+ {
+  "region": "Архангельская область",
+  "city": "Койнас",
+  "clayAndLoam": 1.81,
+  "sandyLoam": 2.2,
+  "sand": 2.35,
+  "CoarseСlasticSoils": 2.67
+ },
+ {
+  "region": "Архангельская область",
+  "city": "Котлас",
+  "clayAndLoam": 1.5899999999999999,
+  "sandyLoam": 1.9300000000000002,
+  "sand": 2.07,
+  "CoarseСlasticSoils": 2.34
+ },
+ {
+  "region": "Архангельская область",
+  "city": "Мезень",
+  "clayAndLoam": 1.71,
+  "sandyLoam": 2.08,
+  "sand": 2.23,
+  "CoarseСlasticSoils": 2.53
+ },
+ {
+  "region": "Архангельская область",
+  "city": "Онега",
+  "clayAndLoam": 1.48,
+  "sandyLoam": 1.8,
+  "sand": 1.9300000000000002,
+  "CoarseСlasticSoils": 2.18
+ },
+ {
+  "region": "Астраханская область",
+  "city": "Астрахань",
+  "clayAndLoam": 0.78,
+  "sandyLoam": 0.94,
+  "sand": 1.01,
+  "CoarseСlasticSoils": 1.14
+ },
+ {
+  "region": "Астраханская область",
+  "city": "Верхний Баскунчак",
+  "clayAndLoam": 1.02,
+  "sandyLoam": 1.23,
+  "sand": 1.32,
+  "CoarseСlasticSoils": 1.5
+ },
+ {
+  "region": "Башкортостан Республика",
+  "city": "Белорецк",
+  "clayAndLoam": 1.79,
+  "sandyLoam": 2.17,
+  "sand": 2.33,
+  "CoarseСlasticSoils": 2.63
+ },
+ {
+  "region": "Башкортостан Республика",
+  "city": "Дуван",
+  "clayAndLoam": 1.65,
+  "sandyLoam": 2,
+  "sand": 2.15,
+  "CoarseСlasticSoils": 2.43
+ },
+ {
+  "region": "Башкортостан Республика",
+  "city": "Мелеуз",
+  "clayAndLoam": 1.7,
+  "sandyLoam": 2.07,
+  "sand": 2.22,
+  "CoarseСlasticSoils": 2.52
+ },
+ {
+  "region": "Башкортостан Республика",
+  "city": "Уфа",
+  "clayAndLoam": 1.5899999999999999,
+  "sandyLoam": 1.9300000000000002,
+  "sand": 2.06,
+  "CoarseСlasticSoils": 2.34
+ },
+ {
+  "region": "Башкортостан Республика",
+  "city": "Янаул",
+  "clayAndLoam": 1.6400000000000001,
+  "sandyLoam": 1.99,
+  "sand": 2.13,
+  "CoarseСlasticSoils": 2.42
+ },
+ {
+  "region": "Белгородская область",
+  "city": "Белгород",
+  "clayAndLoam": 1.09,
+  "sandyLoam": 1.32,
+  "sand": 1.41,
+  "CoarseСlasticSoils": 1.6
+ },
+ {
+  "region": "Брянская область",
+  "city": "Брянск",
+  "clayAndLoam": 1.05,
+  "sandyLoam": 1.28,
+  "sand": 1.37,
+  "CoarseСlasticSoils": 1.55
+ },
+ {
+  "region": "Бурятия Республика",
+  "city": "Бабушкин",
+  "clayAndLoam": 1.71,
+  "sandyLoam": 2.08,
+  "sand": 2.22,
+  "CoarseСlasticSoils": 2.52
+ },
+ {
+  "region": "Бурятия Республика",
+  "city": "Баргузин",
+  "clayAndLoam": 2.26,
+  "sandyLoam": 2.75,
+  "sand": 2.94,
+  "CoarseСlasticSoils": 3.33
+ },
+ {
+  "region": "Бурятия Республика",
+  "city": "Багдарин",
+  "clayAndLoam": 2.52,
+  "sandyLoam": 3.07,
+  "sand": 3.29,
+  "CoarseСlasticSoils": 3.73
+ },
+ {
+  "region": "Бурятия Республика",
+  "city": "Кяхта",
+  "clayAndLoam": 1.94,
+  "sandyLoam": 2.36,
+  "sand": 2.53,
+  "CoarseСlasticSoils": 2.87
+ },
+ {
+  "region": "Бурятия Республика",
+  "city": "Монды",
+  "clayAndLoam": 2.09,
+  "sandyLoam": 2.54,
+  "sand": 2.7199999999999998,
+  "CoarseСlasticSoils": 3.08
+ },
+ {
+  "region": "Бурятия Республика",
+  "city": "Нижнеангарск",
+  "clayAndLoam": 2.14,
+  "sandyLoam": 2.6,
+  "sand": 2.79,
+  "CoarseСlasticSoils": 3.16
+ },
+ {
+  "region": "Бурятия Республика",
+  "city": "Сосново- Озерское",
+  "clayAndLoam": 2.24,
+  "sandyLoam": 2.73,
+  "sand": 2.92,
+  "CoarseСlasticSoils": 3.31
+ },
+ {
+  "region": "Бурятия Республика",
+  "city": "Уакит",
+  "clayAndLoam": 2.58,
+  "sandyLoam": 3.14,
+  "sand": 3.36,
+  "CoarseСlasticSoils": 3.81
+ },
+ {
+  "region": "Бурятия Республика",
+  "city": "Улан-Удэ",
+  "clayAndLoam": 2.08,
+  "sandyLoam": 2.53,
+  "sand": 2.71,
+  "CoarseСlasticSoils": 3.07
+ },
+ {
+  "region": "Бурятия Республика",
+  "city": "Хоринск",
+  "clayAndLoam": 2.25,
+  "sandyLoam": 2.73,
+  "sand": 2.93,
+  "CoarseСlasticSoils": 3.32
+ },
+ {
+  "region": "Владимирская область",
+  "city": "Владимир",
+  "clayAndLoam": 1.38,
+  "sandyLoam": 1.6800000000000002,
+  "sand": 1.8,
+  "CoarseСlasticSoils": 2.04
+ },
+ {
+  "region": "Владимирская область",
+  "city": "Муром",
+  "clayAndLoam": 1.42,
+  "sandyLoam": 1.73,
+  "sand": 1.85,
+  "CoarseСlasticSoils": 2.1
+ },
+ {
+  "region": "Волгоградская область",
+  "city": "Волгоград",
+  "clayAndLoam": 0.99,
+  "sandyLoam": 1.2,
+  "sand": 1.29,
+  "CoarseСlasticSoils": 1.46
+ },
+ {
+  "region": "Волгоградская область",
+  "city": "Камышин",
+  "clayAndLoam": 1.31,
+  "sandyLoam": 1.5899999999999999,
+  "sand": 1.7,
+  "CoarseСlasticSoils": 1.9300000000000002
+ },
+ {
+  "region": "Волгоградская область",
+  "city": "Костычевка",
+  "clayAndLoam": 1.43,
+  "sandyLoam": 1.73,
+  "sand": 1.8599999999999999,
+  "CoarseСlasticSoils": 2.1
+ },
+ {
+  "region": "Волгоградская область",
+  "city": "Котельниково",
+  "clayAndLoam": 1,
+  "sandyLoam": 1.22,
+  "sand": 1.31,
+  "CoarseСlasticSoils": 1.48
+ },
+ {
+  "region": "Волгоградская область",
+  "city": "Новоаннинский",
+  "clayAndLoam": 1.24,
+  "sandyLoam": 1.51,
+  "sand": 1.62,
+  "CoarseСlasticSoils": 1.83
+ },
+ {
+  "region": "Волгоградская область",
+  "city": "Эльтон",
+  "clayAndLoam": 1.1,
+  "sandyLoam": 1.34,
+  "sand": 1.43,
+  "CoarseСlasticSoils": 1.62
+ },
+ {
+  "region": "Вологодская область",
+  "city": "Бабаево",
+  "clayAndLoam": 1.43,
+  "sandyLoam": 1.74,
+  "sand": 1.8599999999999999,
+  "CoarseСlasticSoils": 2.11
+ },
+ {
+  "region": "Вологодская область",
+  "city": "Вологда",
+  "clayAndLoam": 1.43,
+  "sandyLoam": 1.74,
+  "sand": 1.87,
+  "CoarseСlasticSoils": 2.11
+ },
+ {
+  "region": "Вологодская область",
+  "city": "Вытегра",
+  "clayAndLoam": 1.37,
+  "sandyLoam": 1.6600000000000001,
+  "sand": 1.78,
+  "CoarseСlasticSoils": 2.02
+ },
+ {
+  "region": "Вологодская область",
+  "city": "Никольск",
+  "clayAndLoam": 1.53,
+  "sandyLoam": 1.87,
+  "sand": 2,
+  "CoarseСlasticSoils": 2.26
+ },
+ {
+  "region": "Вологодская область",
+  "city": "Тотьма",
+  "clayAndLoam": 1.5,
+  "sandyLoam": 1.8199999999999998,
+  "sand": 1.95,
+  "CoarseСlasticSoils": 2.21
+ },
+ {
+  "region": "Воронежская область",
+  "city": "Воронеж",
+  "clayAndLoam": 1.07,
+  "sandyLoam": 1.31,
+  "sand": 1.4,
+  "CoarseСlasticSoils": 1.58
+ },
+ {
+  "region": "Дагестан Республика",
+  "city": "Дербент",
+  "clayAndLoam": 0,
+  "sandyLoam": 0,
+  "sand": 0,
+  "CoarseСlasticSoils": 0
+ },
+ {
+  "region": "Дагестан Республика",
+  "city": "Махачкала",
+  "clayAndLoam": 0,
+  "sandyLoam": 0,
+  "sand": 0,
+  "CoarseСlasticSoils": 0
+ },
+ {
+  "region": "Дагестан Республика",
+  "city": "Южно-Сухокумск",
+  "clayAndLoam": 0.58,
+  "sandyLoam": 0.7,
+  "sand": 0.75,
+  "CoarseСlasticSoils": 0.85
+ },
+ {
+  "region": "Ивановская область",
+  "city": "Иваново",
+  "clayAndLoam": 1.45,
+  "sandyLoam": 1.76,
+  "sand": 1.8900000000000001,
+  "CoarseСlasticSoils": 2.14
+ },
+ {
+  "region": "Ивановская область",
+  "city": "Кинешма",
+  "clayAndLoam": 1.49,
+  "sandyLoam": 1.81,
+  "sand": 1.94,
+  "CoarseСlasticSoils": 2.19
+ },
+ {
+  "region": "Иркутская область",
+  "city": "Алыгджер",
+  "clayAndLoam": 1.8399999999999999,
+  "sandyLoam": 2.24,
+  "sand": 2.4,
+  "CoarseСlasticSoils": 2.7199999999999998
+ },
+ {
+  "region": "Иркутская область",
+  "city": "Бодайбо",
+  "clayAndLoam": 2.53,
+  "sandyLoam": 3.08,
+  "sand": 3.29,
+  "CoarseСlasticSoils": 3.73
+ },
+ {
+  "region": "Иркутская область",
+  "city": "Братск",
+  "clayAndLoam": 2.07,
+  "sandyLoam": 2.52,
+  "sand": 2.7,
+  "CoarseСlasticSoils": 3.05
+ },
+ {
+  "region": "Иркутская область",
+  "city": "Верхняя Гутара",
+  "clayAndLoam": 2,
+  "sandyLoam": 2.43,
+  "sand": 2.61,
+  "CoarseСlasticSoils": 2.95
+ },
+ {
+  "region": "Иркутская область",
+  "city": "Дубровское",
+  "clayAndLoam": 2.46,
+  "sandyLoam": 3,
+  "sand": 3.21,
+  "CoarseСlasticSoils": 3.64
+ },
+ {
+  "region": "Иркутская область",
+  "city": "Ербогачен",
+  "clayAndLoam": 2.68,
+  "sandyLoam": 3.27,
+  "sand": 3.5,
+  "CoarseСlasticSoils": 3.96
+ },
+ {
+  "region": "Иркутская область",
+  "city": "Жигалово",
+  "clayAndLoam": 2.36,
+  "sandyLoam": 2.87,
+  "sand": 3.08,
+  "CoarseСlasticSoils": 3.49
+ },
+ {
+  "region": "Иркутская область",
+  "city": "Зима",
+  "clayAndLoam": 2.14,
+  "sandyLoam": 2.61,
+  "sand": 2.79,
+  "CoarseСlasticSoils": 3.16
+ },
+ {
+  "region": "Иркутская область",
+  "city": "Ика",
+  "clayAndLoam": 2.57,
+  "sandyLoam": 3.13,
+  "sand": 3.35,
+  "CoarseСlasticSoils": 3.8
+ },
+ {
+  "region": "Иркутская область",
+  "city": "Илимск",
+  "clayAndLoam": 2.34,
+  "sandyLoam": 2.84,
+  "sand": 3.04,
+  "CoarseСlasticSoils": 3.45
+ },
+ {
+  "region": "Иркутская область",
+  "city": "Иркутск",
+  "clayAndLoam": 1.8599999999999999,
+  "sandyLoam": 2.26,
+  "sand": 2.42,
+  "CoarseСlasticSoils": 2.75
+ },
+ {
+  "region": "Иркутская область",
+  "city": "Ичера",
+  "clayAndLoam": 2.51,
+  "sandyLoam": 3.05,
+  "sand": 3.27,
+  "CoarseСlasticSoils": 3.71
+ },
+ {
+  "region": "Иркутская область",
+  "city": "Киренск",
+  "clayAndLoam": 2.41,
+  "sandyLoam": 2.94,
+  "sand": 3.15,
+  "CoarseСlasticSoils": 3.56
+ },
+ {
+  "region": "Иркутская область",
+  "city": "Мама",
+  "clayAndLoam": 2.48,
+  "sandyLoam": 3.02,
+  "sand": 3.23,
+  "CoarseСlasticSoils": 3.66
+ },
+ {
+  "region": "Иркутская область",
+  "city": "Марково",
+  "clayAndLoam": 2.43,
+  "sandyLoam": 2.95,
+  "sand": 3.16,
+  "CoarseСlasticSoils": 3.58
+ },
+ {
+  "region": "Иркутская область",
+  "city": "Наканно",
+  "clayAndLoam": 2.84,
+  "sandyLoam": 3.45,
+  "sand": 3.7,
+  "CoarseСlasticSoils": 4.19
+ },
+ {
+  "region": "Иркутская область",
+  "city": "Невон",
+  "clayAndLoam": 2.34,
+  "sandyLoam": 2.84,
+  "sand": 3.05,
+  "CoarseСlasticSoils": 3.45
+ },
+ {
+  "region": "Иркутская область",
+  "city": "Непа",
+  "clayAndLoam": 2.54,
+  "sandyLoam": 3.09,
+  "sand": 3.31,
+  "CoarseСlasticSoils": 3.75
+ },
+ {
+  "region": "Иркутская область",
+  "city": "Орлинга",
+  "clayAndLoam": 2.35,
+  "sandyLoam": 2.86,
+  "sand": 3.06,
+  "CoarseСlasticSoils": 3.4699999999999998
+ },
+ {
+  "region": "Иркутская область",
+  "city": "Перевоз",
+  "clayAndLoam": 2.44,
+  "sandyLoam": 2.9699999999999998,
+  "sand": 3.18,
+  "CoarseСlasticSoils": 3.61
+ },
+ {
+  "region": "Иркутская область",
+  "city": "Преображенка",
+  "clayAndLoam": 2.57,
+  "sandyLoam": 3.13,
+  "sand": 3.35,
+  "CoarseСlasticSoils": 3.79
+ },
+ {
+  "region": "Иркутская область",
+  "city": "Саянск",
+  "clayAndLoam": 1.8599999999999999,
+  "sandyLoam": 2.26,
+  "sand": 2.42,
+  "CoarseСlasticSoils": 2.75
+ },
+ {
+  "region": "Иркутская область",
+  "city": "Слюдянка",
+  "clayAndLoam": 1.8900000000000001,
+  "sandyLoam": 2.3,
+  "sand": 2.47,
+  "CoarseСlasticSoils": 2.8
+ },
+ {
+  "region": "Иркутская область",
+  "city": "Тайшет",
+  "clayAndLoam": 1.9100000000000001,
+  "sandyLoam": 2.33,
+  "sand": 2.49,
+  "CoarseСlasticSoils": 2.82
+ },
+ {
+  "region": "Иркутская область",
+  "city": "Тулун",
+  "clayAndLoam": 1.97,
+  "sandyLoam": 2.4,
+  "sand": 2.57,
+  "CoarseСlasticSoils": 2.91
+ },
+ {
+  "region": "Иркутская область",
+  "city": "Усть-Ордынский — Бурятский АО",
+  "clayAndLoam": 2.27,
+  "sandyLoam": 2.76,
+  "sand": 2.96,
+  "CoarseСlasticSoils": 3.35
+ },
+ {
+  "region": "Кабардино-Балкарская Республика",
+  "city": "Нальчик",
+  "clayAndLoam": 0.66,
+  "sandyLoam": 0.81,
+  "sand": 0.86,
+  "CoarseСlasticSoils": 0.98
+ },
+ {
+  "region": "Калининградская область",
+  "city": "Калининград",
+  "clayAndLoam": 0.49,
+  "sandyLoam": 0.59,
+  "sand": 0.63,
+  "CoarseСlasticSoils": 0.72
+ },
+ {
+  "region": "Калмыкия Республика",
+  "city": "Элиста",
+  "clayAndLoam": 0.81,
+  "sandyLoam": 0.98,
+  "sand": 1.05,
+  "CoarseСlasticSoils": 1.19
+ },
+ {
+  "region": "Калужская область",
+  "city": "Калуга",
+  "clayAndLoam": 1.29,
+  "sandyLoam": 1.5699999999999998,
+  "sand": 1.6800000000000002,
+  "CoarseСlasticSoils": 1.9
+ },
+ {
+  "region": "Камчатская область",
+  "city": "Апука — Корякский АО",
+  "clayAndLoam": 1.83,
+  "sandyLoam": 2.23,
+  "sand": 2.39,
+  "CoarseСlasticSoils": 2.7
+ },
+ {
+  "region": "Камчатская область",
+  "city": "Ича — Корякский АО",
+  "clayAndLoam": 1.62,
+  "sandyLoam": 1.97,
+  "sand": 2.11,
+  "CoarseСlasticSoils": 2.39
+ },
+ {
+  "region": "Камчатская область",
+  "city": "Ключи",
+  "clayAndLoam": 1.81,
+  "sandyLoam": 2.2,
+  "sand": 2.36,
+  "CoarseСlasticSoils": 2.67
+ },
+ {
+  "region": "Камчатская область",
+  "city": "Козыревск",
+  "clayAndLoam": 1.96,
+  "sandyLoam": 2.38,
+  "sand": 2.55,
+  "CoarseСlasticSoils": 2.89
+ },
+ {
+  "region": "Камчатская область",
+  "city": "Корф — Корякский АО",
+  "clayAndLoam": 1.92,
+  "sandyLoam": 2.34,
+  "sand": 2.5,
+  "CoarseСlasticSoils": 2.84
+ },
+ {
+  "region": "Камчатская область",
+  "city": "Кроноки",
+  "clayAndLoam": 1.37,
+  "sandyLoam": 1.67,
+  "sand": 1.79,
+  "CoarseСlasticSoils": 2.03
+ },
+ {
+  "region": "Камчатская область",
+  "city": "Лопатка. мыс",
+  "clayAndLoam": 1,
+  "sandyLoam": 1.21,
+  "sand": 1.3,
+  "CoarseСlasticSoils": 1.47
+ },
+ {
+  "region": "Камчатская область",
+  "city": "Мильково",
+  "clayAndLoam": 2.06,
+  "sandyLoam": 2.51,
+  "sand": 2.69,
+  "CoarseСlasticSoils": 3.05
+ },
+ {
+  "region": "Камчатская область",
+  "city": "Начики",
+  "clayAndLoam": 2,
+  "sandyLoam": 2.43,
+  "sand": 2.6,
+  "CoarseСlasticSoils": 2.95
+ },
+ {
+  "region": "Камчатская область",
+  "city": "о. Беринга",
+  "clayAndLoam": 0.81,
+  "sandyLoam": 0.98,
+  "sand": 1.05,
+  "CoarseСlasticSoils": 1.19
+ },
+ {
+  "region": "Камчатская область",
+  "city": "Оссора — Корякский АО",
+  "clayAndLoam": 1.88,
+  "sandyLoam": 2.28,
+  "sand": 2.45,
+  "CoarseСlasticSoils": 2.77
+ },
+ {
+  "region": "Камчатская область",
+  "city": "Петропавловск- Камчатский",
+  "clayAndLoam": 1.13,
+  "sandyLoam": 1.38,
+  "sand": 1.48,
+  "CoarseСlasticSoils": 1.67
+ },
+ {
+  "region": "Камчатская область",
+  "city": "Семлячики",
+  "clayAndLoam": 1.13,
+  "sandyLoam": 1.37,
+  "sand": 1.47,
+  "CoarseСlasticSoils": 1.67
+ },
+ {
+  "region": "Камчатская область",
+  "city": "Соболево",
+  "clayAndLoam": 1.71,
+  "sandyLoam": 2.08,
+  "sand": 2.23,
+  "CoarseСlasticSoils": 2.53
+ },
+ {
+  "region": "Камчатская область",
+  "city": "Ука",
+  "clayAndLoam": 1.96,
+  "sandyLoam": 2.39,
+  "sand": 2.56,
+  "CoarseСlasticSoils": 2.9
+ },
+ {
+  "region": "Камчатская область",
+  "city": "Октябрьская",
+  "clayAndLoam": 1.6,
+  "sandyLoam": 1.95,
+  "sand": 2.09,
+  "CoarseСlasticSoils": 2.36
+ },
+ {
+  "region": "Камчатская область",
+  "city": "Усть- Воямполка — Корякский АО",
+  "clayAndLoam": 1.99,
+  "sandyLoam": 2.42,
+  "sand": 2.59,
+  "CoarseСlasticSoils": 2.93
+ },
+ {
+  "region": "Камчатская область",
+  "city": "Усть-Камчатск",
+  "clayAndLoam": 1.63,
+  "sandyLoam": 1.98,
+  "sand": 2.12,
+  "CoarseСlasticSoils": 2.4
+ },
+ {
+  "region": "Камчатская область",
+  "city": "Усть- Хайрюзово",
+  "clayAndLoam": 1.75,
+  "sandyLoam": 2.13,
+  "sand": 2.28,
+  "CoarseСlasticSoils": 2.59
+ },
+ {
+  "region": "Карачаево-Черкесская Республика",
+  "city": "Черкесск",
+  "clayAndLoam": 0.65,
+  "sandyLoam": 0.79,
+  "sand": 0.85,
+  "CoarseСlasticSoils": 0.96
+ },
+ {
+  "region": "Карелия Республика",
+  "city": "Кемь",
+  "clayAndLoam": 1.44,
+  "sandyLoam": 1.75,
+  "sand": 1.87,
+  "CoarseСlasticSoils": 2.12
+ },
+ {
+  "region": "Карелия Республика",
+  "city": "Лоухи",
+  "clayAndLoam": 1.5899999999999999,
+  "sandyLoam": 1.94,
+  "sand": 2.08,
+  "CoarseСlasticSoils": 2.35
+ },
+ {
+  "region": "Карелия Республика",
+  "city": "Олонец",
+  "clayAndLoam": 1.3900000000000001,
+  "sandyLoam": 1.69,
+  "sand": 1.81,
+  "CoarseСlasticSoils": 2.05
+ },
+ {
+  "region": "Карелия Республика",
+  "city": "Паданы",
+  "clayAndLoam": 1.43,
+  "sandyLoam": 1.73,
+  "sand": 1.8599999999999999,
+  "CoarseСlasticSoils": 2.1
+ },
+ {
+  "region": "Карелия Республика",
+  "city": "Петрозаводск",
+  "clayAndLoam": 1.33,
+  "sandyLoam": 1.62,
+  "sand": 1.74,
+  "CoarseСlasticSoils": 1.97
+ },
+ {
+  "region": "Карелия Республика",
+  "city": "Реболы",
+  "clayAndLoam": 1.5,
+  "sandyLoam": 1.8199999999999998,
+  "sand": 1.95,
+  "CoarseСlasticSoils": 2.21
+ },
+ {
+  "region": "Карелия Республика",
+  "city": "Сортавала",
+  "clayAndLoam": 1.24,
+  "sandyLoam": 1.51,
+  "sand": 1.62,
+  "CoarseСlasticSoils": 1.83
+ },
+ {
+  "region": "Карелия Республика",
+  "clayAndLoam": 0.01,
+  "sandyLoam": 0.01,
+  "sand": 0.01,
+  "CoarseСlasticSoils": 0.01
+ },
+ {
+  "region": "Кемеровская область",
+  "city": "Кемерово",
+  "clayAndLoam": 1.8599999999999999,
+  "sandyLoam": 2.26,
+  "sand": 2.42,
+  "CoarseСlasticSoils": 2.75
+ },
+ {
+  "region": "Кемеровская область",
+  "city": "Киселевск",
+  "clayAndLoam": 1.8599999999999999,
+  "sandyLoam": 2.26,
+  "sand": 2.42,
+  "CoarseСlasticSoils": 2.74
+ },
+ {
+  "region": "Кемеровская область",
+  "city": "Кондома",
+  "clayAndLoam": 1.94,
+  "sandyLoam": 2.36,
+  "sand": 2.53,
+  "CoarseСlasticSoils": 2.86
+ },
+ {
+  "region": "Кемеровская область",
+  "city": "Мариинск",
+  "clayAndLoam": 1.9100000000000001,
+  "sandyLoam": 2.33,
+  "sand": 2.49,
+  "CoarseСlasticSoils": 2.83
+ },
+ {
+  "region": "Кемеровская область",
+  "city": "Тайга",
+  "clayAndLoam": 1.9,
+  "sandyLoam": 2.31,
+  "sand": 2.47,
+  "CoarseСlasticSoils": 2.8
+ },
+ {
+  "region": "Кемеровская область",
+  "city": "Тисуль",
+  "clayAndLoam": 1.78,
+  "sandyLoam": 2.17,
+  "sand": 2.32,
+  "CoarseСlasticSoils": 2.63
+ },
+ {
+  "region": "Кемеровская область",
+  "city": "Топки",
+  "clayAndLoam": 1.95,
+  "sandyLoam": 2.38,
+  "sand": 2.54,
+  "CoarseСlasticSoils": 2.88
+ },
+ {
+  "region": "Кемеровская область",
+  "city": "Усть-Кабырза",
+  "clayAndLoam": 2.07,
+  "sandyLoam": 2.51,
+  "sand": 2.69,
+  "CoarseСlasticSoils": 3.05
+ },
+ {
+  "region": "Кировская область",
+  "city": "Вятка",
+  "clayAndLoam": 1.6600000000000001,
+  "sandyLoam": 2.02,
+  "sand": 2.16,
+  "CoarseСlasticSoils": 2.45
+ },
+ {
+  "region": "Кировская область",
+  "city": "Нагорское",
+  "clayAndLoam": 1.7,
+  "sandyLoam": 2.07,
+  "sand": 2.22,
+  "CoarseСlasticSoils": 2.51
+ },
+ {
+  "region": "Кировская область",
+  "city": "Савали",
+  "clayAndLoam": 1.6600000000000001,
+  "sandyLoam": 2.02,
+  "sand": 2.16,
+  "CoarseСlasticSoils": 2.45
+ },
+ {
+  "region": "Коми Республика",
+  "city": "Вендинга",
+  "clayAndLoam": 1.8,
+  "sandyLoam": 2.18,
+  "sand": 2.34,
+  "CoarseСlasticSoils": 2.65
+ },
+ {
+  "region": "Коми Республика",
+  "city": "Воркута",
+  "clayAndLoam": 2.35,
+  "sandyLoam": 2.86,
+  "sand": 3.06,
+  "CoarseСlasticSoils": 3.4699999999999998
+ },
+ {
+  "region": "Коми Республика",
+  "city": "Объячево",
+  "clayAndLoam": 1.67,
+  "sandyLoam": 2.03,
+  "sand": 2.17,
+  "CoarseСlasticSoils": 2.46
+ },
+ {
+  "region": "Коми Республика",
+  "city": "Петрунь",
+  "clayAndLoam": 2.18,
+  "sandyLoam": 2.65,
+  "sand": 2.84,
+  "CoarseСlasticSoils": 3.22
+ },
+ {
+  "region": "Коми Республика",
+  "city": "Печора",
+  "clayAndLoam": 2.02,
+  "sandyLoam": 2.46,
+  "sand": 2.63,
+  "CoarseСlasticSoils": 2.98
+ },
+ {
+  "region": "Коми Республика",
+  "city": "Сыктывкар",
+  "clayAndLoam": 1.67,
+  "sandyLoam": 2.03,
+  "sand": 2.18,
+  "CoarseСlasticSoils": 2.46
+ },
+ {
+  "region": "Коми Республика",
+  "city": "Троицко- Печорское",
+  "clayAndLoam": 1.8599999999999999,
+  "sandyLoam": 2.27,
+  "sand": 2.43,
+  "CoarseСlasticSoils": 2.75
+ },
+ {
+  "region": "Коми Республика",
+  "city": "Усть-Уса",
+  "clayAndLoam": 2.05,
+  "sandyLoam": 2.5,
+  "sand": 2.68,
+  "CoarseСlasticSoils": 3.03
+ },
+ {
+  "region": "Коми Республика",
+  "city": "Усть-Цильма",
+  "clayAndLoam": 1.9100000000000001,
+  "sandyLoam": 2.32,
+  "sand": 2.48,
+  "CoarseСlasticSoils": 2.81
+ },
+ {
+  "region": "Коми Республика",
+  "city": "Усть-Щугор",
+  "clayAndLoam": 2.08,
+  "sandyLoam": 2.53,
+  "sand": 2.7,
+  "CoarseСlasticSoils": 3.06
+ },
+ {
+  "region": "Коми Республика",
+  "city": "Ухта",
+  "clayAndLoam": 1.88,
+  "sandyLoam": 2.28,
+  "sand": 2.45,
+  "CoarseСlasticSoils": 2.77
+ },
+ {
+  "region": "Костромская область",
+  "city": "Кострома",
+  "clayAndLoam": 1.46,
+  "sandyLoam": 1.78,
+  "sand": 1.9,
+  "CoarseСlasticSoils": 2.15
+ },
+ {
+  "region": "Костромская область",
+  "city": "Чухлома",
+  "clayAndLoam": 1.53,
+  "sandyLoam": 1.8599999999999999,
+  "sand": 1.99,
+  "CoarseСlasticSoils": 2.25
+ },
+ {
+  "region": "Костромская область",
+  "city": "Шарья",
+  "clayAndLoam": 1.58,
+  "sandyLoam": 1.92,
+  "sand": 2.05,
+  "CoarseСlasticSoils": 2.33
+ },
+ {
+  "region": "Краснодарский край",
+  "city": "Красная Поляна",
+  "clayAndLoam": 0,
+  "sandyLoam": 0,
+  "sand": 0,
+  "CoarseСlasticSoils": 0
+ },
+ {
+  "region": "Краснодарский край",
+  "city": "Краснодар",
+  "clayAndLoam": 0.11,
+  "sandyLoam": 0.14,
+  "sand": 0.14,
+  "CoarseСlasticSoils": 0.16
+ },
+ {
+  "region": "Краснодарский край",
+  "city": "Приморско-Ахтарск",
+  "clayAndLoam": 0.5,
+  "sandyLoam": 0.61,
+  "sand": 0.65,
+  "CoarseСlasticSoils": 0.74
+ },
+ {
+  "region": "Краснодарский край",
+  "city": "Сочи",
+  "clayAndLoam": 0.01,
+  "sandyLoam": 0.01,
+  "sand": 0.01,
+  "CoarseСlasticSoils": 0.01
+ },
+ {
+  "region": "Краснодарский край",
+  "city": "Тихорецк",
+  "clayAndLoam": 0.43,
+  "sandyLoam": 0.53,
+  "sand": 0.56,
+  "CoarseСlasticSoils": 0.64
+ },
+ {
+  "region": "Красноярский край",
+  "city": "Агата",
+  "clayAndLoam": 2.9699999999999998,
+  "sandyLoam": 3.61,
+  "sand": 3.86,
+  "CoarseСlasticSoils": 4.38
+ },
+ {
+  "region": "Красноярский край",
+  "city": "Ачинск",
+  "clayAndLoam": 1.77,
+  "sandyLoam": 2.15,
+  "sand": 2.3,
+  "CoarseСlasticSoils": 2.61
+ },
+ {
+  "region": "Красноярский край",
+  "city": "Байкит — Эвенкийский АО",
+  "clayAndLoam": 2.61,
+  "sandyLoam": 3.17,
+  "sand": 3.39,
+  "CoarseСlasticSoils": 3.85
+ },
+ {
+  "region": "Красноярский край",
+  "city": "Боготол",
+  "clayAndLoam": 1.9100000000000001,
+  "sandyLoam": 2.33,
+  "sand": 2.49,
+  "CoarseСlasticSoils": 2.83
+ },
+ {
+  "region": "Красноярский край",
+  "city": "Богучаны",
+  "clayAndLoam": 2.18,
+  "sandyLoam": 2.65,
+  "sand": 2.84,
+  "CoarseСlasticSoils": 3.22
+ },
+ {
+  "region": "Красноярский край",
+  "city": "Ванавара — Эвенкийский АО",
+  "clayAndLoam": 2.57,
+  "sandyLoam": 3.13,
+  "sand": 3.35,
+  "CoarseСlasticSoils": 3.79
+ },
+ {
+  "region": "Красноярский край",
+  "city": "Вельмо",
+  "clayAndLoam": 2.52,
+  "sandyLoam": 3.07,
+  "sand": 3.29,
+  "CoarseСlasticSoils": 3.7199999999999998
+ },
+ {
+  "region": "Красноярский край",
+  "city": "Верхнеимбатск",
+  "clayAndLoam": 2.38,
+  "sandyLoam": 2.9,
+  "sand": 3.1,
+  "CoarseСlasticSoils": 3.52
+ },
+ {
+  "region": "Красноярский край",
+  "city": "Волочанка",
+  "clayAndLoam": 3.02,
+  "sandyLoam": 3.67,
+  "sand": 3.93,
+  "CoarseСlasticSoils": 4.46
+ },
+ {
+  "region": "Красноярский край",
+  "city": "Диксон — Таймырский АО",
+  "clayAndLoam": 2.82,
+  "sandyLoam": 3.43,
+  "sand": 3.68,
+  "CoarseСlasticSoils": 4.16
+ },
+ {
+  "region": "Красноярский край",
+  "city": "Дудинка — Таймырский АО",
+  "clayAndLoam": 2.85,
+  "sandyLoam": 3.4699999999999998,
+  "sand": 3.71,
+  "CoarseСlasticSoils": 4.21
+ },
+ {
+  "region": "Красноярский край",
+  "city": "Енисейск",
+  "clayAndLoam": 2.15,
+  "sandyLoam": 2.62,
+  "sand": 2.8,
+  "CoarseСlasticSoils": 3.17
+ },
+ {
+  "region": "Красноярский край",
+  "city": "Ессей — Эвенкийский АО",
+  "clayAndLoam": 3.11,
+  "sandyLoam": 3.79,
+  "sand": 4.06,
+  "CoarseСlasticSoils": 4.6
+ },
+ {
+  "region": "Красноярский край",
+  "city": "Игарка",
+  "clayAndLoam": 2.7199999999999998,
+  "sandyLoam": 3.31,
+  "sand": 3.55,
+  "CoarseСlasticSoils": 4.02
+ },
+ {
+  "region": "Красноярский край",
+  "city": "Канск",
+  "clayAndLoam": 2.04,
+  "sandyLoam": 2.48,
+  "sand": 2.66,
+  "CoarseСlasticSoils": 3.01
+ },
+ {
+  "region": "Красноярский край",
+  "city": "Кежма",
+  "clayAndLoam": 2.45,
+  "sandyLoam": 2.98,
+  "sand": 3.19,
+  "CoarseСlasticSoils": 3.61
+ },
+ {
+  "region": "Красноярский край",
+  "city": "Ключи",
+  "clayAndLoam": 1.9100000000000001,
+  "sandyLoam": 2.32,
+  "sand": 2.49,
+  "CoarseСlasticSoils": 2.82
+ },
+ {
+  "region": "Красноярский край",
+  "city": "Красноярск",
+  "clayAndLoam": 1.75,
+  "sandyLoam": 2.13,
+  "sand": 2.28,
+  "CoarseСlasticSoils": 2.59
+ },
+ {
+  "region": "Красноярский край",
+  "city": "Минусинск",
+  "clayAndLoam": 1.8399999999999999,
+  "sandyLoam": 2.24,
+  "sand": 2.39,
+  "CoarseСlasticSoils": 2.71
+ },
+ {
+  "region": "Красноярский край",
+  "city": "Таимба",
+  "clayAndLoam": 2.62,
+  "sandyLoam": 3.19,
+  "sand": 3.42,
+  "CoarseСlasticSoils": 3.87
+ },
+ {
+  "region": "Красноярский край",
+  "city": "Троицкое",
+  "clayAndLoam": 2.2,
+  "sandyLoam": 2.68,
+  "sand": 2.87,
+  "CoarseСlasticSoils": 3.25
+ },
+ {
+  "region": "Красноярский край",
+  "city": "Тура — Эвенкийский АО",
+  "clayAndLoam": 2.89,
+  "sandyLoam": 3.51,
+  "sand": 3.76,
+  "CoarseСlasticSoils": 4.26
+ },
+ {
+  "region": "Красноярский край",
+  "city": "Туруханск",
+  "clayAndLoam": 2.56,
+  "sandyLoam": 3.11,
+  "sand": 3.33,
+  "CoarseСlasticSoils": 3.7800000000000002
+ },
+ {
+  "region": "Красноярский край",
+  "city": "Хатанга — Таймырский АО",
+  "clayAndLoam": 3.12,
+  "sandyLoam": 3.8,
+  "sand": 4.07,
+  "CoarseСlasticSoils": 4.61
+ },
+ {
+  "region": "Красноярский край",
+  "city": "Челюскин. мыс — Таймырский АО",
+  "clayAndLoam": 3.09,
+  "sandyLoam": 3.75,
+  "sand": 4.02,
+  "CoarseСlasticSoils": 4.56
+ },
+ {
+  "region": "Красноярский край",
+  "city": "Ярцево",
+  "clayAndLoam": 2.3,
+  "sandyLoam": 2.8,
+  "sand": 3,
+  "CoarseСlasticSoils": 3.4
+ },
+ {
+  "region": "Крым Республика",
+  "city": "Ай-Петри",
+  "clayAndLoam": 0.71,
+  "sandyLoam": 0.86,
+  "sand": 0.92,
+  "CoarseСlasticSoils": 1.04
+ },
+ {
+  "region": "Крым Республика",
+  "city": "Клепинино",
+  "clayAndLoam": 0.34,
+  "sandyLoam": 0.41,
+  "sand": 0.43,
+  "CoarseСlasticSoils": 0.49
+ },
+ {
+  "region": "Крым Республика",
+  "city": "Симферополь",
+  "clayAndLoam": 0.17,
+  "sandyLoam": 0.21,
+  "sand": 0.22,
+  "CoarseСlasticSoils": 0.25
+ },
+ {
+  "region": "Крым Республика",
+  "city": "Феодосия",
+  "clayAndLoam": 0.01,
+  "sandyLoam": 0.01,
+  "sand": 0.01,
+  "CoarseСlasticSoils": 0.01
+ },
+ {
+  "region": "Крым Республика",
+  "city": "Ялта",
+  "clayAndLoam": 0.01,
+  "sandyLoam": 0.01,
+  "sand": 0.01,
+  "CoarseСlasticSoils": 0.01
+ },
+ {
+  "region": "Крым Республика",
+  "city": "Керчь",
+  "clayAndLoam": 0.01,
+  "sandyLoam": 0.01,
+  "sand": 0.01,
+  "CoarseСlasticSoils": 0.01
+ },
+ {
+  "region": "Крым Республика",
+  "city": "Севастополь",
+  "clayAndLoam": 0.01,
+  "sandyLoam": 0.01,
+  "sand": 0.01,
+  "CoarseСlasticSoils": 0.01
+ },
+ {
+  "region": "Курганская область край",
+  "city": "Курган",
+  "clayAndLoam": 1.76,
+  "sandyLoam": 2.14,
+  "sand": 2.29,
+  "CoarseСlasticSoils": 2.6
+ },
+ {
+  "region": "Курская область",
+  "city": "Курск",
+  "clayAndLoam": 1.07,
+  "sandyLoam": 1.3,
+  "sand": 1.3900000000000001,
+  "CoarseСlasticSoils": 1.58
+ },
+ {
+  "region": "Липецкая область",
+  "city": "Липецк",
+  "clayAndLoam": 1.33,
+  "sandyLoam": 1.6099999999999999,
+  "sand": 1.73,
+  "CoarseСlasticSoils": 1.96
+ },
+ {
+  "region": "Ленинградская область",
+  "city": "Санкт-Петербург",
+  "clayAndLoam": 0.99,
+  "sandyLoam": 1.21,
+  "sand": 1.29,
+  "CoarseСlasticSoils": 1.46
+ },
+ {
+  "region": "Ленинградская область",
+  "city": "Свирица",
+  "clayAndLoam": 1.33,
+  "sandyLoam": 1.62,
+  "sand": 1.73,
+  "CoarseСlasticSoils": 1.96
+ },
+ {
+  "region": "Ленинградская область",
+  "city": "Тихвин",
+  "clayAndLoam": 1.25,
+  "sandyLoam": 1.52,
+  "sand": 1.62,
+  "CoarseСlasticSoils": 1.8399999999999999
+ },
+ {
+  "region": "Магаданская область",
+  "city": "Аркагала",
+  "clayAndLoam": 2.22,
+  "sandyLoam": 2.7,
+  "sand": 2.89,
+  "CoarseСlasticSoils": 3.2800000000000002
+ },
+ {
+  "region": "Магаданская область",
+  "city": "Брохово",
+  "clayAndLoam": 2.19,
+  "sandyLoam": 2.66,
+  "sand": 2.85,
+  "CoarseСlasticSoils": 3.23
+ },
+ {
+  "region": "Магаданская область",
+  "city": "Магадан",
+  "clayAndLoam": 2.01,
+  "sandyLoam": 2.44,
+  "sand": 2.62,
+  "CoarseСlasticSoils": 2.96
+ },
+ {
+  "region": "Магаданская область",
+  "city": "Омсукчан",
+  "clayAndLoam": 3.02,
+  "sandyLoam": 3.68,
+  "sand": 3.94,
+  "CoarseСlasticSoils": 4.46
+ },
+ {
+  "region": "Магаданская область",
+  "city": "Палатка",
+  "clayAndLoam": 2.42,
+  "sandyLoam": 2.95,
+  "sand": 3.16,
+  "CoarseСlasticSoils": 3.58
+ },
+ {
+  "region": "Магаданская область",
+  "city": "Среднекан",
+  "clayAndLoam": 3.13,
+  "sandyLoam": 3.8,
+  "sand": 4.07,
+  "CoarseСlasticSoils": 4.62
+ },
+ {
+  "region": "Магаданская область",
+  "city": "Сусуман",
+  "clayAndLoam": 3.17,
+  "sandyLoam": 3.86,
+  "sand": 4.13,
+  "CoarseСlasticSoils": 4.68
+ },
+ {
+  "region": "Марий Эл Республика",
+  "city": "Йошкар-Ола",
+  "clayAndLoam": 1.49,
+  "sandyLoam": 1.81,
+  "sand": 1.94,
+  "CoarseСlasticSoils": 2.19
+ },
+ {
+  "region": "Мордовия Республика",
+  "city": "Саранск",
+  "clayAndLoam": 1.49,
+  "sandyLoam": 1.8199999999999998,
+  "sand": 1.94,
+  "CoarseСlasticSoils": 2.2
+ },
+ {
+  "region": "Мурманская область",
+  "city": "Вайда-Губа",
+  "clayAndLoam": 1.07,
+  "sandyLoam": 1.3,
+  "sand": 1.3900000000000001,
+  "CoarseСlasticSoils": 1.58
+ },
+ {
+  "region": "Мурманская область",
+  "city": "Кандалакша",
+  "clayAndLoam": 1.62,
+  "sandyLoam": 1.96,
+  "sand": 2.1,
+  "CoarseСlasticSoils": 2.38
+ },
+ {
+  "region": "Мурманская область",
+  "city": "Ковдор",
+  "clayAndLoam": 1.6600000000000001,
+  "sandyLoam": 2.02,
+  "sand": 2.17,
+  "CoarseСlasticSoils": 2.45
+ },
+ {
+  "region": "Мурманская область",
+  "city": "Краснощелье",
+  "clayAndLoam": 1.76,
+  "sandyLoam": 2.14,
+  "sand": 2.29,
+  "CoarseСlasticSoils": 2.59
+ },
+ {
+  "region": "Мурманская область",
+  "city": "Ловозеро",
+  "clayAndLoam": 1.77,
+  "sandyLoam": 2.15,
+  "sand": 2.3,
+  "CoarseСlasticSoils": 2.61
+ },
+ {
+  "region": "Мурманская область",
+  "city": "Мончегорск",
+  "clayAndLoam": 1.6600000000000001,
+  "sandyLoam": 2.02,
+  "sand": 2.17,
+  "CoarseСlasticSoils": 2.45
+ },
+ {
+  "region": "Мурманская область",
+  "city": "Мурманск",
+  "clayAndLoam": 1.48,
+  "sandyLoam": 1.81,
+  "sand": 1.9300000000000002,
+  "CoarseСlasticSoils": 2.19
+ },
+ {
+  "region": "Мурманская область",
+  "city": "Ниванкюль",
+  "clayAndLoam": 1.67,
+  "sandyLoam": 2.03,
+  "sand": 2.18,
+  "CoarseСlasticSoils": 2.47
+ },
+ {
+  "region": "Мурманская область",
+  "city": "Пулозеро",
+  "clayAndLoam": 1.73,
+  "sandyLoam": 2.1,
+  "sand": 2.25,
+  "CoarseСlasticSoils": 2.55
+ },
+ {
+  "region": "Мурманская область",
+  "city": "Пялица",
+  "clayAndLoam": 1.52,
+  "sandyLoam": 1.85,
+  "sand": 1.98,
+  "CoarseСlasticSoils": 2.24
+ },
+ {
+  "region": "Мурманская область",
+  "city": "Териберка",
+  "clayAndLoam": 1.31,
+  "sandyLoam": 1.5899999999999999,
+  "sand": 1.7,
+  "CoarseСlasticSoils": 1.9300000000000002
+ },
+ {
+  "region": "Мурманская область",
+  "city": "Терско-Орловский",
+  "clayAndLoam": 1.52,
+  "sandyLoam": 1.8399999999999999,
+  "sand": 1.97,
+  "CoarseСlasticSoils": 2.24
+ },
+ {
+  "region": "Мурманская область",
+  "city": "Умба",
+  "clayAndLoam": 1.53,
+  "sandyLoam": 1.8599999999999999,
+  "sand": 1.99,
+  "CoarseСlasticSoils": 2.26
+ },
+ {
+  "region": "Мурманская область",
+  "city": "Юкспор",
+  "clayAndLoam": 1.8900000000000001,
+  "sandyLoam": 2.3,
+  "sand": 2.46,
+  "CoarseСlasticSoils": 2.79
+ },
+ {
+  "region": "Нижегородская область",
+  "city": "Арзамас",
+  "clayAndLoam": 1.53,
+  "sandyLoam": 1.8599999999999999,
+  "sand": 2,
+  "CoarseСlasticSoils": 2.26
+ },
+ {
+  "region": "Нижегородская область",
+  "city": "Выкса",
+  "clayAndLoam": 1.44,
+  "sandyLoam": 1.75,
+  "sand": 1.87,
+  "CoarseСlasticSoils": 2.12
+ },
+ {
+  "region": "Нижегородская область",
+  "city": "Нижний Новгород",
+  "clayAndLoam": 1.46,
+  "sandyLoam": 1.77,
+  "sand": 1.9,
+  "CoarseСlasticSoils": 2.15
+ },
+ {
+  "region": "Новгородская область",
+  "city": "Боровичи",
+  "clayAndLoam": 1.28,
+  "sandyLoam": 1.56,
+  "sand": 1.67,
+  "CoarseСlasticSoils": 1.8900000000000001
+ },
+ {
+  "region": "Новгородская область",
+  "city": "Новгород",
+  "clayAndLoam": 1.24,
+  "sandyLoam": 1.5,
+  "sand": 1.6099999999999999,
+  "CoarseСlasticSoils": 1.83
+ },
+ {
+  "region": "Новосибирская область",
+  "city": "Барабинск",
+  "clayAndLoam": 1.9100000000000001,
+  "sandyLoam": 2.32,
+  "sand": 2.49,
+  "CoarseСlasticSoils": 2.82
+ },
+ {
+  "region": "Новосибирская область",
+  "city": "Болотное",
+  "clayAndLoam": 1.8399999999999999,
+  "sandyLoam": 2.24,
+  "sand": 2.4,
+  "CoarseСlasticSoils": 2.7199999999999998
+ },
+ {
+  "region": "Новосибирская область",
+  "city": "Карасук",
+  "clayAndLoam": 1.98,
+  "sandyLoam": 2.4,
+  "sand": 2.57,
+  "CoarseСlasticSoils": 2.92
+ },
+ {
+  "region": "Новосибирская область",
+  "city": "Кочки",
+  "clayAndLoam": 2.01,
+  "sandyLoam": 2.45,
+  "sand": 2.62,
+  "CoarseСlasticSoils": 2.9699999999999998
+ },
+ {
+  "region": "Новосибирская область",
+  "city": "Купино",
+  "clayAndLoam": 1.8900000000000001,
+  "sandyLoam": 2.3,
+  "sand": 2.46,
+  "CoarseСlasticSoils": 2.79
+ },
+ {
+  "region": "Новосибирская область",
+  "city": "Кыштовка",
+  "clayAndLoam": 2.02,
+  "sandyLoam": 2.46,
+  "sand": 2.63,
+  "CoarseСlasticSoils": 2.98
+ },
+ {
+  "region": "Новосибирская область",
+  "city": "Новосибирск",
+  "clayAndLoam": 1.8399999999999999,
+  "sandyLoam": 2.24,
+  "sand": 2.4,
+  "CoarseСlasticSoils": 2.7199999999999998
+ },
+ {
+  "region": "Новосибирская область",
+  "city": "Татарск",
+  "clayAndLoam": 1.87,
+  "sandyLoam": 2.27,
+  "sand": 2.43,
+  "CoarseСlasticSoils": 2.76
+ },
+ {
+  "region": "Новосибирская область",
+  "city": "Чулым",
+  "clayAndLoam": 2,
+  "sandyLoam": 2.43,
+  "sand": 2.61,
+  "CoarseСlasticSoils": 2.95
+ },
+ {
+  "region": "Омская область",
+  "city": "Омск",
+  "clayAndLoam": 1.83,
+  "sandyLoam": 2.22,
+  "sand": 2.38,
+  "CoarseСlasticSoils": 2.7
+ },
+ {
+  "region": "Омская область",
+  "city": "Тара",
+  "clayAndLoam": 1.8900000000000001,
+  "sandyLoam": 2.3,
+  "sand": 2.46,
+  "CoarseСlasticSoils": 2.79
+ },
+ {
+  "region": "Омская область",
+  "city": "Черлак",
+  "clayAndLoam": 1.8599999999999999,
+  "sandyLoam": 2.26,
+  "sand": 2.42,
+  "CoarseСlasticSoils": 2.74
+ },
+ {
+  "region": "Оренбургская область",
+  "city": "Кувандык",
+  "clayAndLoam": 1.7,
+  "sandyLoam": 2.06,
+  "sand": 2.21,
+  "CoarseСlasticSoils": 2.5
+ },
+ {
+  "region": "Оренбургская область",
+  "city": "Оренбург",
+  "clayAndLoam": 1.53,
+  "sandyLoam": 1.8599999999999999,
+  "sand": 1.99,
+  "CoarseСlasticSoils": 2.26
+ },
+ {
+  "region": "Оренбургская область",
+  "city": "Сорочинск",
+  "clayAndLoam": 1.62,
+  "sandyLoam": 1.96,
+  "sand": 2.1,
+  "CoarseСlasticSoils": 2.38
+ },
+ {
+  "region": "Орловская область",
+  "city": "Орел",
+  "clayAndLoam": 1.11,
+  "sandyLoam": 1.35,
+  "sand": 1.45,
+  "CoarseСlasticSoils": 1.6400000000000001
+ },
+ {
+  "region": "Пензенская область",
+  "city": "Земетчино",
+  "clayAndLoam": 1.3,
+  "sandyLoam": 1.58,
+  "sand": 1.69,
+  "CoarseСlasticSoils": 1.9100000000000001
+ },
+ {
+  "region": "Пензенская область",
+  "city": "Пенза",
+  "clayAndLoam": 1.33,
+  "sandyLoam": 1.62,
+  "sand": 1.73,
+  "CoarseСlasticSoils": 1.96
+ },
+ {
+  "region": "Пермская область",
+  "city": "Бисер",
+  "clayAndLoam": 1.81,
+  "sandyLoam": 2.2,
+  "sand": 2.36,
+  "CoarseСlasticSoils": 2.67
+ },
+ {
+  "region": "Пермская область",
+  "city": "Ножовка",
+  "clayAndLoam": 1.67,
+  "sandyLoam": 2.03,
+  "sand": 2.18,
+  "CoarseСlasticSoils": 2.47
+ },
+ {
+  "region": "Пермская область",
+  "city": "Пермь",
+  "clayAndLoam": 1.6,
+  "sandyLoam": 1.94,
+  "sand": 2.08,
+  "CoarseСlasticSoils": 2.36
+ },
+ {
+  "region": "Пермская область",
+  "city": "Чердынь",
+  "clayAndLoam": 1.83,
+  "sandyLoam": 2.23,
+  "sand": 2.39,
+  "CoarseСlasticSoils": 2.7
+ },
+ {
+  "region": "Приморский край",
+  "city": "Агзу",
+  "clayAndLoam": 1.9300000000000002,
+  "sandyLoam": 2.35,
+  "sand": 2.51,
+  "CoarseСlasticSoils": 2.85
+ },
+ {
+  "region": "Приморский край",
+  "city": "Анучино",
+  "clayAndLoam": 1.8599999999999999,
+  "sandyLoam": 2.26,
+  "sand": 2.42,
+  "CoarseСlasticSoils": 2.74
+ },
+ {
+  "region": "Приморский край",
+  "city": "Астраханка",
+  "clayAndLoam": 1.7,
+  "sandyLoam": 2.07,
+  "sand": 2.22,
+  "CoarseСlasticSoils": 2.52
+ },
+ {
+  "region": "Приморский край",
+  "city": "Богополь",
+  "clayAndLoam": 1.46,
+  "sandyLoam": 1.78,
+  "sand": 1.9,
+  "CoarseСlasticSoils": 2.16
+ },
+ {
+  "region": "Приморский край",
+  "city": "Владивосток",
+  "clayAndLoam": 1.35,
+  "sandyLoam": 1.65,
+  "sand": 1.76,
+  "CoarseСlasticSoils": 2
+ },
+ {
+  "region": "Приморский край",
+  "city": "Дальнереченск",
+  "clayAndLoam": 1.81,
+  "sandyLoam": 2.2,
+  "sand": 2.36,
+  "CoarseСlasticSoils": 2.67
+ },
+ {
+  "region": "Приморский край",
+  "city": "Кировский",
+  "clayAndLoam": 1.88,
+  "sandyLoam": 2.29,
+  "sand": 2.45,
+  "CoarseСlasticSoils": 2.7800000000000002
+ },
+ {
+  "region": "Приморский край",
+  "city": "Красный Яр",
+  "clayAndLoam": 2.06,
+  "sandyLoam": 2.51,
+  "sand": 2.68,
+  "CoarseСlasticSoils": 3.04
+ },
+ {
+  "region": "Приморский край",
+  "city": "Маргаритово",
+  "clayAndLoam": 1.42,
+  "sandyLoam": 1.73,
+  "sand": 1.85,
+  "CoarseСlasticSoils": 2.1
+ },
+ {
+  "region": "Приморский край",
+  "city": "Мельничное",
+  "clayAndLoam": 2,
+  "sandyLoam": 2.43,
+  "sand": 2.6,
+  "CoarseСlasticSoils": 2.95
+ },
+ {
+  "region": "Приморский край",
+  "city": "Партизанск",
+  "clayAndLoam": 1.46,
+  "sandyLoam": 1.77,
+  "sand": 1.9,
+  "CoarseСlasticSoils": 2.15
+ },
+ {
+  "region": "Приморский край",
+  "city": "Посьет",
+  "clayAndLoam": 1.12,
+  "sandyLoam": 1.37,
+  "sand": 1.46,
+  "CoarseСlasticSoils": 1.6600000000000001
+ },
+ {
+  "region": "Приморский край",
+  "city": "Преображение",
+  "clayAndLoam": 1.03,
+  "sandyLoam": 1.25,
+  "sand": 1.34,
+  "CoarseСlasticSoils": 1.52
+ },
+ {
+  "region": "Приморский край",
+  "city": "Рудная Пристань",
+  "clayAndLoam": 1.29,
+  "sandyLoam": 1.5699999999999998,
+  "sand": 1.6800000000000002,
+  "CoarseСlasticSoils": 1.9
+ },
+ {
+  "region": "Приморский край",
+  "city": "Сосуново",
+  "clayAndLoam": 1.53,
+  "sandyLoam": 1.8599999999999999,
+  "sand": 1.99,
+  "CoarseСlasticSoils": 2.26
+ },
+ {
+  "region": "Приморский край",
+  "city": "Чугуевка",
+  "clayAndLoam": 1.94,
+  "sandyLoam": 2.36,
+  "sand": 2.53,
+  "CoarseСlasticSoils": 2.86
+ },
+ {
+  "region": "Псковская область",
+  "city": "Великие Луки",
+  "clayAndLoam": 1.02,
+  "sandyLoam": 1.24,
+  "sand": 1.32,
+  "CoarseСlasticSoils": 1.5
+ },
+ {
+  "region": "Псковская область",
+  "city": "Псков",
+  "clayAndLoam": 0.98,
+  "sandyLoam": 1.19,
+  "sand": 1.28,
+  "CoarseСlasticSoils": 1.45
+ },
+ {
+  "region": "Ростовская область",
+  "city": "Миллерово",
+  "clayAndLoam": 0.92,
+  "sandyLoam": 1.12,
+  "sand": 1.2,
+  "CoarseСlasticSoils": 1.3599999999999999
+ },
+ {
+  "region": "Ростовская область",
+  "city": "Ростов-на-Дону",
+  "clayAndLoam": 0.67,
+  "sandyLoam": 0.81,
+  "sand": 0.87,
+  "CoarseСlasticSoils": 0.98
+ },
+ {
+  "region": "Ростовская область",
+  "city": "Таганрог",
+  "clayAndLoam": 0.65,
+  "sandyLoam": 0.79,
+  "sand": 0.84,
+  "CoarseСlasticSoils": 0.95
+ },
+ {
+  "region": "Рязанская область",
+  "city": "Рязань",
+  "clayAndLoam": 1.37,
+  "sandyLoam": 1.6600000000000001,
+  "sand": 1.78,
+  "CoarseСlasticSoils": 2.02
+ },
+ {
+  "region": "Самарская область",
+  "city": "Самара",
+  "clayAndLoam": 1.55,
+  "sandyLoam": 1.8900000000000001,
+  "sand": 2.02,
+  "CoarseСlasticSoils": 2.29
+ },
+ {
+  "region": "Саратовская область",
+  "city": "Александров Гай",
+  "clayAndLoam": 1.46,
+  "sandyLoam": 1.77,
+  "sand": 1.9,
+  "CoarseСlasticSoils": 2.15
+ },
+ {
+  "region": "Саратовская область",
+  "city": "Балашов",
+  "clayAndLoam": 1.3599999999999999,
+  "sandyLoam": 1.6600000000000001,
+  "sand": 1.78,
+  "CoarseСlasticSoils": 2.01
+ },
+ {
+  "region": "Саратовская область",
+  "city": "Саратов",
+  "clayAndLoam": 1.2,
+  "sandyLoam": 1.45,
+  "sand": 1.56,
+  "CoarseСlasticSoils": 1.76
+ },
+ {
+  "region": "Сахалинская область",
+  "city": "Александровск-Сахалинский",
+  "clayAndLoam": 1.75,
+  "sandyLoam": 2.13,
+  "sand": 2.28,
+  "CoarseСlasticSoils": 2.58
+ },
+ {
+  "region": "Сахалинская область",
+  "city": "Долинск",
+  "clayAndLoam": 1.52,
+  "sandyLoam": 1.8399999999999999,
+  "sand": 1.97,
+  "CoarseСlasticSoils": 2.24
+ },
+ {
+  "region": "Сахалинская область",
+  "city": "Кировское",
+  "clayAndLoam": 2.14,
+  "sandyLoam": 2.6,
+  "sand": 2.7800000000000002,
+  "CoarseСlasticSoils": 3.15
+ },
+ {
+  "region": "Сахалинская область",
+  "city": "Корсаков",
+  "clayAndLoam": 1.34,
+  "sandyLoam": 1.63,
+  "sand": 1.74,
+  "CoarseСlasticSoils": 1.97
+ },
+ {
+  "region": "Сахалинская область",
+  "city": "Курильск",
+  "clayAndLoam": 0.92,
+  "sandyLoam": 1.12,
+  "sand": 1.2,
+  "CoarseСlasticSoils": 1.3599999999999999
+ },
+ {
+  "region": "Сахалинская область",
+  "city": "Макаров",
+  "clayAndLoam": 1.58,
+  "sandyLoam": 1.92,
+  "sand": 2.06,
+  "CoarseСlasticSoils": 2.33
+ },
+ {
+  "region": "Сахалинская область",
+  "city": "Невельск",
+  "clayAndLoam": 1.15,
+  "sandyLoam": 1.4,
+  "sand": 1.49,
+  "CoarseСlasticSoils": 1.69
+ },
+ {
+  "region": "Сахалинская область",
+  "city": "Ноглики",
+  "clayAndLoam": 1.9,
+  "sandyLoam": 2.31,
+  "sand": 2.48,
+  "CoarseСlasticSoils": 2.81
+ },
+ {
+  "region": "Сахалинская область",
+  "city": "Оха",
+  "clayAndLoam": 2.01,
+  "sandyLoam": 2.44,
+  "sand": 2.61,
+  "CoarseСlasticSoils": 2.96
+ },
+ {
+  "region": "Сахалинская область",
+  "city": "Погиби",
+  "clayAndLoam": 2.02,
+  "sandyLoam": 2.46,
+  "sand": 2.63,
+  "CoarseСlasticSoils": 2.98
+ },
+ {
+  "region": "Сахалинская область",
+  "city": "Поронайск",
+  "clayAndLoam": 1.71,
+  "sandyLoam": 2.08,
+  "sand": 2.23,
+  "CoarseСlasticSoils": 2.52
+ },
+ {
+  "region": "Сахалинская область",
+  "city": "Рыбновск",
+  "clayAndLoam": 2.14,
+  "sandyLoam": 2.6,
+  "sand": 2.79,
+  "CoarseСlasticSoils": 3.16
+ },
+ {
+  "region": "Сахалинская область",
+  "city": "Холмск",
+  "clayAndLoam": 1.24,
+  "sandyLoam": 1.51,
+  "sand": 1.62,
+  "CoarseСlasticSoils": 1.83
+ },
+ {
+  "region": "Сахалинская область",
+  "city": "Южно-Курильск",
+  "clayAndLoam": 0.86,
+  "sandyLoam": 1.05,
+  "sand": 1.12,
+  "CoarseСlasticSoils": 1.27
+ },
+ {
+  "region": "Сахалинская область",
+  "city": "Южно-Сахалинск",
+  "clayAndLoam": 1.48,
+  "sandyLoam": 1.81,
+  "sand": 1.9300000000000002,
+  "CoarseСlasticSoils": 2.19
+ },
+ {
+  "region": "Свердловская область",
+  "city": "Верхотурье",
+  "clayAndLoam": 1.74,
+  "sandyLoam": 2.11,
+  "sand": 2.26,
+  "CoarseСlasticSoils": 2.56
+ },
+ {
+  "region": "Свердловская область",
+  "city": "Екатеринбург",
+  "clayAndLoam": 1.58,
+  "sandyLoam": 1.92,
+  "sand": 2.05,
+  "CoarseСlasticSoils": 2.32
+ },
+ {
+  "region": "Свердловская область",
+  "city": "Ивдель",
+  "clayAndLoam": 1.9,
+  "sandyLoam": 2.31,
+  "sand": 2.47,
+  "CoarseСlasticSoils": 2.8
+ },
+ {
+  "region": "Свердловская область",
+  "city": "Каменск-Уральский",
+  "clayAndLoam": 1.77,
+  "sandyLoam": 2.15,
+  "sand": 2.3,
+  "CoarseСlasticSoils": 2.61
+ },
+ {
+  "region": "Свердловская область",
+  "city": "Туринск",
+  "clayAndLoam": 1.8599999999999999,
+  "sandyLoam": 2.27,
+  "sand": 2.43,
+  "CoarseСlasticSoils": 2.75
+ },
+ {
+  "region": "Свердловская область",
+  "city": "Шамары",
+  "clayAndLoam": 1.77,
+  "sandyLoam": 2.15,
+  "sand": 2.3,
+  "CoarseСlasticSoils": 2.61
+ },
+ {
+  "region": "Северная Осетия Республика",
+  "city": "Владикавказ",
+  "clayAndLoam": 0.56,
+  "sandyLoam": 0.68,
+  "sand": 0.73,
+  "CoarseСlasticSoils": 0.83
+ },
+ {
+  "region": "Смоленская область",
+  "city": "Вязьма",
+  "clayAndLoam": 1.3,
+  "sandyLoam": 1.58,
+  "sand": 1.69,
+  "CoarseСlasticSoils": 1.92
+ },
+ {
+  "region": "Смоленская область",
+  "city": "Смоленск",
+  "clayAndLoam": 1.09,
+  "sandyLoam": 1.33,
+  "sand": 1.42,
+  "CoarseСlasticSoils": 1.6099999999999999
+ },
+ {
+  "region": "Ставропольский край",
+  "city": "Арзгир",
+  "clayAndLoam": 0.73,
+  "sandyLoam": 0.89,
+  "sand": 0.95,
+  "CoarseСlasticSoils": 1.07
+ },
+ {
+  "region": "Ставропольский край",
+  "city": "Кисловодск",
+  "clayAndLoam": 0.61,
+  "sandyLoam": 0.74,
+  "sand": 0.79,
+  "CoarseСlasticSoils": 0.9
+ },
+ {
+  "region": "Ставропольский край",
+  "city": "Невинномысск",
+  "clayAndLoam": 0.71,
+  "sandyLoam": 0.86,
+  "sand": 0.92,
+  "CoarseСlasticSoils": 1.05
+ },
+ {
+  "region": "Ставропольский край",
+  "city": "Пятигорск",
+  "clayAndLoam": 0.68,
+  "sandyLoam": 0.83,
+  "sand": 0.89,
+  "CoarseСlasticSoils": 1.01
+ },
+ {
+  "region": "Ставропольский край",
+  "city": "Ставрополь",
+  "clayAndLoam": 0.57,
+  "sandyLoam": 0.7,
+  "sand": 0.74,
+  "CoarseСlasticSoils": 0.84
+ },
+ {
+  "region": "Тамбовская область",
+  "city": "Тамбов",
+  "clayAndLoam": 1.3599999999999999,
+  "sandyLoam": 1.65,
+  "sand": 1.77,
+  "CoarseСlasticSoils": 2.01
+ },
+ {
+  "region": "Татарстан Республика",
+  "city": "Бугульма",
+  "clayAndLoam": 1.69,
+  "sandyLoam": 2.06,
+  "sand": 2.2,
+  "CoarseСlasticSoils": 2.49
+ },
+ {
+  "region": "Татарстан Республика",
+  "city": "Елабуга",
+  "clayAndLoam": 1.5,
+  "sandyLoam": 1.8199999999999998,
+  "sand": 1.95,
+  "CoarseСlasticSoils": 2.21
+ },
+ {
+  "region": "Татарстан Республика",
+  "city": "Казань",
+  "clayAndLoam": 1.44,
+  "sandyLoam": 1.76,
+  "sand": 1.88,
+  "CoarseСlasticSoils": 2.13
+ },
+ {
+  "region": "Тверская область",
+  "city": "Бежецк",
+  "clayAndLoam": 1.3900000000000001,
+  "sandyLoam": 1.69,
+  "sand": 1.81,
+  "CoarseСlasticSoils": 2.05
+ },
+ {
+  "region": "Тверская область",
+  "city": "Тверь",
+  "clayAndLoam": 1.33,
+  "sandyLoam": 1.62,
+  "sand": 1.73,
+  "CoarseСlasticSoils": 1.96
+ },
+ {
+  "region": "Тверская область",
+  "city": "Ржев",
+  "clayAndLoam": 1.29,
+  "sandyLoam": 1.56,
+  "sand": 1.67,
+  "CoarseСlasticSoils": 1.9
+ },
+ {
+  "region": "Томская область",
+  "city": "Александровское",
+  "clayAndLoam": 2.11,
+  "sandyLoam": 2.57,
+  "sand": 2.75,
+  "CoarseСlasticSoils": 3.12
+ },
+ {
+  "region": "Томская область",
+  "city": "Колпашево",
+  "clayAndLoam": 2,
+  "sandyLoam": 2.43,
+  "sand": 2.6,
+  "CoarseСlasticSoils": 2.94
+ },
+ {
+  "region": "Томская область",
+  "city": "Средний Васюган",
+  "clayAndLoam": 1.99,
+  "sandyLoam": 2.42,
+  "sand": 2.59,
+  "CoarseСlasticSoils": 2.93
+ },
+ {
+  "region": "Томская область",
+  "city": "Томск",
+  "clayAndLoam": 1.87,
+  "sandyLoam": 2.27,
+  "sand": 2.43,
+  "CoarseСlasticSoils": 2.76
+ },
+ {
+  "region": "Томская область",
+  "city": "Усть-Озерное",
+  "clayAndLoam": 2.08,
+  "sandyLoam": 2.53,
+  "sand": 2.71,
+  "CoarseСlasticSoils": 3.07
+ },
+ {
+  "region": "Тыва Республика",
+  "city": "Кызыл",
+  "clayAndLoam": 2.36,
+  "sandyLoam": 2.87,
+  "sand": 3.07,
+  "CoarseСlasticSoils": 3.48
+ },
+ {
+  "region": "Тульская область",
+  "city": "Тула",
+  "clayAndLoam": 1.3,
+  "sandyLoam": 1.58,
+  "sand": 1.69,
+  "CoarseСlasticSoils": 1.9100000000000001
+ },
+ {
+  "region": "Тюменская область",
+  "city": "Березово — Ханты-Мансийский АО",
+  "clayAndLoam": 2.21,
+  "sandyLoam": 2.69,
+  "sand": 2.88,
+  "CoarseСlasticSoils": 3.27
+ },
+ {
+  "region": "Тюменская область",
+  "city": "Демьянское",
+  "clayAndLoam": 1.97,
+  "sandyLoam": 2.39,
+  "sand": 2.56,
+  "CoarseСlasticSoils": 2.9
+ },
+ {
+  "region": "Тюменская область",
+  "city": "Кондинское — Ханты-Мансийский АО",
+  "clayAndLoam": 2.01,
+  "sandyLoam": 2.44,
+  "sand": 2.61,
+  "CoarseСlasticSoils": 2.96
+ },
+ {
+  "region": "Тюменская область",
+  "city": "Леуши",
+  "clayAndLoam": 1.8399999999999999,
+  "sandyLoam": 2.24,
+  "sand": 2.39,
+  "CoarseСlasticSoils": 2.71
+ },
+ {
+  "region": "Тюменская область",
+  "city": "Марресаля",
+  "clayAndLoam": 2.49,
+  "sandyLoam": 3.03,
+  "sand": 3.25,
+  "CoarseСlasticSoils": 3.68
+ },
+ {
+  "region": "Тюменская область",
+  "city": "Надым",
+  "clayAndLoam": 2.42,
+  "sandyLoam": 2.94,
+  "sand": 3.15,
+  "CoarseСlasticSoils": 3.57
+ },
+ {
+  "region": "Тюменская область",
+  "city": "Октябрьское",
+  "clayAndLoam": 2.09,
+  "sandyLoam": 2.54,
+  "sand": 2.7199999999999998,
+  "CoarseСlasticSoils": 3.09
+ },
+ {
+  "region": "Тюменская область",
+  "city": "Салехард",
+  "clayAndLoam": 2.46,
+  "sandyLoam": 2.99,
+  "sand": 3.2,
+  "CoarseСlasticSoils": 3.63
+ },
+ {
+  "region": "Тюменская область",
+  "city": "Сосьва",
+  "clayAndLoam": 2.22,
+  "sandyLoam": 2.7,
+  "sand": 2.89,
+  "CoarseСlasticSoils": 3.2800000000000002
+ },
+ {
+  "region": "Тюменская область",
+  "city": "Сургут — Ханты-Мансийский АО",
+  "clayAndLoam": 2.23,
+  "sandyLoam": 2.71,
+  "sand": 2.91,
+  "CoarseСlasticSoils": 3.29
+ },
+ {
+  "region": "Тюменская область",
+  "city": "Тарко-Сале — Ямало- Ненецкий АО",
+  "clayAndLoam": 2.49,
+  "sandyLoam": 3.03,
+  "sand": 3.25,
+  "CoarseСlasticSoils": 3.68
+ },
+ {
+  "region": "Тюменская область",
+  "city": "Тобольск",
+  "clayAndLoam": 1.88,
+  "sandyLoam": 2.28,
+  "sand": 2.45,
+  "CoarseСlasticSoils": 2.77
+ },
+ {
+  "region": "Тюменская область",
+  "city": "Тюмень",
+  "clayAndLoam": 1.74,
+  "sandyLoam": 2.11,
+  "sand": 2.26,
+  "CoarseСlasticSoils": 2.57
+ },
+ {
+  "region": "Тюменская область",
+  "city": "Угут",
+  "clayAndLoam": 2.13,
+  "sandyLoam": 2.59,
+  "sand": 2.7800000000000002,
+  "CoarseСlasticSoils": 3.15
+ },
+ {
+  "region": "Тюменская область",
+  "city": "Уренгой — Ямало-Ненецкий АО",
+  "clayAndLoam": 2.67,
+  "sandyLoam": 3.24,
+  "sand": 3.4699999999999998,
+  "CoarseСlasticSoils": 3.94
+ },
+ {
+  "region": "Тюменская область",
+  "city": "Ханты- Мансийск — Ханты- Мансийский АО",
+  "clayAndLoam": 2.01,
+  "sandyLoam": 2.44,
+  "sand": 2.62,
+  "CoarseСlasticSoils": 2.96
+ },
+ {
+  "region": "Удмуртская Республика",
+  "city": "Глазов",
+  "clayAndLoam": 1.73,
+  "sandyLoam": 2.1,
+  "sand": 2.25,
+  "CoarseСlasticSoils": 2.55
+ },
+ {
+  "region": "Удмуртская Республика",
+  "city": "Ижевск",
+  "clayAndLoam": 1.58,
+  "sandyLoam": 1.92,
+  "sand": 2.06,
+  "CoarseСlasticSoils": 2.33
+ },
+ {
+  "region": "Удмуртская Республика",
+  "city": "Сарапул",
+  "clayAndLoam": 1.56,
+  "sandyLoam": 1.9,
+  "sand": 2.03,
+  "CoarseСlasticSoils": 2.3
+ },
+ {
+  "region": "Ульяновская область",
+  "city": "Сурское",
+  "clayAndLoam": 1.53,
+  "sandyLoam": 1.8599999999999999,
+  "sand": 2,
+  "CoarseСlasticSoils": 2.26
+ },
+ {
+  "region": "Ульяновская область",
+  "city": "Ульяновск",
+  "clayAndLoam": 1.6099999999999999,
+  "sandyLoam": 1.96,
+  "sand": 2.09,
+  "CoarseСlasticSoils": 2.37
+ },
+ {
+  "region": "Хабаровский край",
+  "city": "Аян",
+  "clayAndLoam": 2.08,
+  "sandyLoam": 2.53,
+  "sand": 2.71,
+  "CoarseСlasticSoils": 3.07
+ },
+ {
+  "region": "Хабаровский край",
+  "city": "Байдуков",
+  "clayAndLoam": 2.13,
+  "sandyLoam": 2.6,
+  "sand": 2.7800000000000002,
+  "CoarseСlasticSoils": 3.15
+ },
+ {
+  "region": "Хабаровский край",
+  "city": "Бикин",
+  "clayAndLoam": 1.99,
+  "sandyLoam": 2.42,
+  "sand": 2.59,
+  "CoarseСlasticSoils": 2.93
+ },
+ {
+  "region": "Хабаровский край",
+  "city": "Бира",
+  "clayAndLoam": 2.02,
+  "sandyLoam": 2.46,
+  "sand": 2.63,
+  "CoarseСlasticSoils": 2.98
+ },
+ {
+  "region": "Хабаровский край",
+  "city": "Биробиджан",
+  "clayAndLoam": 2.05,
+  "sandyLoam": 2.49,
+  "sand": 2.67,
+  "CoarseСlasticSoils": 3.02
+ },
+ {
+  "region": "Хабаровский край",
+  "city": "Вяземский",
+  "clayAndLoam": 2.01,
+  "sandyLoam": 2.44,
+  "sand": 2.61,
+  "CoarseСlasticSoils": 2.96
+ },
+ {
+  "region": "Хабаровский край",
+  "city": "Гвасюги",
+  "clayAndLoam": 2.16,
+  "sandyLoam": 2.62,
+  "sand": 2.81,
+  "CoarseСlasticSoils": 3.18
+ },
+ {
+  "region": "Хабаровский край",
+  "city": "Гроссевичи",
+  "clayAndLoam": 1.6099999999999999,
+  "sandyLoam": 1.96,
+  "sand": 2.1,
+  "CoarseСlasticSoils": 2.38
+ },
+ {
+  "region": "Хабаровский край",
+  "city": "Де-Кастри",
+  "clayAndLoam": 1.94,
+  "sandyLoam": 2.36,
+  "sand": 2.53,
+  "CoarseСlasticSoils": 2.86
+ },
+ {
+  "region": "Хабаровский край",
+  "city": "Джаорэ",
+  "clayAndLoam": 2.01,
+  "sandyLoam": 2.45,
+  "sand": 2.62,
+  "CoarseСlasticSoils": 2.9699999999999998
+ },
+ {
+  "region": "Хабаровский край",
+  "city": "Екатерино-Никольское",
+  "clayAndLoam": 1.88,
+  "sandyLoam": 2.29,
+  "sand": 2.45,
+  "CoarseСlasticSoils": 2.7800000000000002
+ },
+ {
+  "region": "Хабаровский край",
+  "city": "Комсомольск-на-Амуре",
+  "clayAndLoam": 2.18,
+  "sandyLoam": 2.65,
+  "sand": 2.84,
+  "CoarseСlasticSoils": 3.21
+ },
+ {
+  "region": "Хабаровский край",
+  "city": "Нижнетамбовское",
+  "clayAndLoam": 2.21,
+  "sandyLoam": 2.68,
+  "sand": 2.87,
+  "CoarseСlasticSoils": 3.26
+ },
+ {
+  "region": "Хабаровский край",
+  "city": "Николаевск-на-Амуре",
+  "clayAndLoam": 2.14,
+  "sandyLoam": 2.6,
+  "sand": 2.79,
+  "CoarseСlasticSoils": 3.16
+ },
+ {
+  "region": "Хабаровский край",
+  "city": "Облучье",
+  "clayAndLoam": 2.25,
+  "sandyLoam": 2.74,
+  "sand": 2.94,
+  "CoarseСlasticSoils": 3.33
+ },
+ {
+  "region": "Хабаровский край",
+  "city": "Охотск",
+  "clayAndLoam": 2.22,
+  "sandyLoam": 2.71,
+  "sand": 2.9,
+  "CoarseСlasticSoils": 3.2800000000000002
+ },
+ {
+  "region": "Хабаровский край",
+  "city": "Им. Полины Осипенко",
+  "clayAndLoam": 2.28,
+  "sandyLoam": 2.77,
+  "sand": 2.9699999999999998,
+  "CoarseСlasticSoils": 3.37
+ },
+ {
+  "region": "Хабаровский край",
+  "city": "Сизиман",
+  "clayAndLoam": 1.88,
+  "sandyLoam": 2.29,
+  "sand": 2.45,
+  "CoarseСlasticSoils": 2.7800000000000002
+ },
+ {
+  "region": "Хабаровский край",
+  "city": "Советская Гавань",
+  "clayAndLoam": 1.7,
+  "sandyLoam": 2.07,
+  "sand": 2.21,
+  "CoarseСlasticSoils": 2.51
+ },
+ {
+  "region": "Хабаровский край",
+  "city": "Софийский Прииск",
+  "clayAndLoam": 2.64,
+  "sandyLoam": 3.22,
+  "sand": 3.45,
+  "CoarseСlasticSoils": 3.9
+ },
+ {
+  "region": "Хабаровский край",
+  "city": "Средний Ургал",
+  "clayAndLoam": 2.45,
+  "sandyLoam": 2.98,
+  "sand": 3.19,
+  "CoarseСlasticSoils": 3.61
+ },
+ {
+  "region": "Хабаровский край",
+  "city": "Троицкое",
+  "clayAndLoam": 2.05,
+  "sandyLoam": 2.5,
+  "sand": 2.67,
+  "CoarseСlasticSoils": 3.03
+ },
+ {
+  "region": "Хабаровский край",
+  "city": "Хабаровск",
+  "clayAndLoam": 1.9100000000000001,
+  "sandyLoam": 2.32,
+  "sand": 2.49,
+  "CoarseСlasticSoils": 2.82
+ },
+ {
+  "region": "Хабаровский край",
+  "city": "Чумикан",
+  "clayAndLoam": 2.21,
+  "sandyLoam": 2.68,
+  "sand": 2.87,
+  "CoarseСlasticSoils": 3.26
+ },
+ {
+  "region": "Хабаровский край",
+  "city": "Энкэн",
+  "clayAndLoam": 2.1,
+  "sandyLoam": 2.55,
+  "sand": 2.73,
+  "CoarseСlasticSoils": 3.09
+ },
+ {
+  "region": "Хакассия Республика",
+  "city": "Абакан",
+  "clayAndLoam": 2.07,
+  "sandyLoam": 2.51,
+  "sand": 2.69,
+  "CoarseСlasticSoils": 3.05
+ },
+ {
+  "region": "Хакассия Республика",
+  "city": "Шира",
+  "clayAndLoam": 1.94,
+  "sandyLoam": 2.35,
+  "sand": 2.52,
+  "CoarseСlasticSoils": 2.86
+ },
+ {
+  "region": "Челябинская область",
+  "city": "Верхнеуральск",
+  "clayAndLoam": 1.6800000000000002,
+  "sandyLoam": 2.04,
+  "sand": 2.19,
+  "CoarseСlasticSoils": 2.48
+ },
+ {
+  "region": "Челябинская область",
+  "city": "Нязепетровск",
+  "clayAndLoam": 1.79,
+  "sandyLoam": 2.17,
+  "sand": 2.33,
+  "CoarseСlasticSoils": 2.64
+ },
+ {
+  "region": "Челябинская область",
+  "city": "Челябинск",
+  "clayAndLoam": 1.74,
+  "sandyLoam": 2.12,
+  "sand": 2.27,
+  "CoarseСlasticSoils": 2.57
+ },
+ {
+  "region": "Чеченская Республика",
+  "city": "Грозный",
+  "clayAndLoam": 0.49,
+  "sandyLoam": 0.6,
+  "sand": 0.64,
+  "CoarseСlasticSoils": 0.72
+ },
+ {
+  "region": "Читинская область",
+  "city": "Агинское",
+  "clayAndLoam": 2.19,
+  "sandyLoam": 2.67,
+  "sand": 2.86,
+  "CoarseСlasticSoils": 3.24
+ },
+ {
+  "region": "Читинская область",
+  "city": "Акша",
+  "clayAndLoam": 2.11,
+  "sandyLoam": 2.57,
+  "sand": 2.75,
+  "CoarseСlasticSoils": 3.12
+ },
+ {
+  "region": "Читинская область",
+  "city": "Александровский Завод",
+  "clayAndLoam": 2.4,
+  "sandyLoam": 2.92,
+  "sand": 3.13,
+  "CoarseСlasticSoils": 3.55
+ },
+ {
+  "region": "Читинская область",
+  "city": "Борзя",
+  "clayAndLoam": 2.27,
+  "sandyLoam": 2.76,
+  "sand": 2.96,
+  "CoarseСlasticSoils": 3.35
+ },
+ {
+  "region": "Читинская область",
+  "city": "Дарасун",
+  "clayAndLoam": 2.15,
+  "sandyLoam": 2.61,
+  "sand": 2.8,
+  "CoarseСlasticSoils": 3.17
+ },
+ {
+  "region": "Читинская область",
+  "city": "Калакан",
+  "clayAndLoam": 2.74,
+  "sandyLoam": 3.33,
+  "sand": 3.57,
+  "CoarseСlasticSoils": 4.04
+ },
+ {
+  "region": "Читинская область",
+  "city": "Красный Чикой",
+  "clayAndLoam": 2.22,
+  "sandyLoam": 2.7,
+  "sand": 2.89,
+  "CoarseСlasticSoils": 3.27
+ },
+ {
+  "region": "Читинская область",
+  "city": "Могоча",
+  "clayAndLoam": 2.5,
+  "sandyLoam": 3.04,
+  "sand": 3.25,
+  "CoarseСlasticSoils": 3.69
+ },
+ {
+  "region": "Читинская область",
+  "city": "Нерчинск",
+  "clayAndLoam": 2.49,
+  "sandyLoam": 3.03,
+  "sand": 3.25,
+  "CoarseСlasticSoils": 3.68
+ },
+ {
+  "region": "Читинская область",
+  "city": "Нерчинский Завод",
+  "clayAndLoam": 2.31,
+  "sandyLoam": 2.81,
+  "sand": 3.01,
+  "CoarseСlasticSoils": 3.41
+ },
+ {
+  "region": "Читинская область",
+  "city": "Средний Калар",
+  "clayAndLoam": 2.9,
+  "sandyLoam": 3.52,
+  "sand": 3.77,
+  "CoarseСlasticSoils": 4.28
+ },
+ {
+  "region": "Читинская область",
+  "city": "Тунгокочен",
+  "clayAndLoam": 2.63,
+  "sandyLoam": 3.2,
+  "sand": 3.42,
+  "CoarseСlasticSoils": 3.88
+ },
+ {
+  "region": "Читинская область",
+  "city": "Тупик",
+  "clayAndLoam": 2.71,
+  "sandyLoam": 3.29,
+  "sand": 3.5300000000000002,
+  "CoarseСlasticSoils": 3.99
+ },
+ {
+  "region": "Читинская область",
+  "city": "Чара",
+  "clayAndLoam": 2.73,
+  "sandyLoam": 3.33,
+  "sand": 3.56,
+  "CoarseСlasticSoils": 4.04
+ },
+ {
+  "region": "Читинская область",
+  "city": "Чита",
+  "clayAndLoam": 2.21,
+  "sandyLoam": 2.69,
+  "sand": 2.89,
+  "CoarseСlasticSoils": 3.27
+ },
+ {
+  "region": "Чувашская Республика",
+  "city": "Порецкое",
+  "clayAndLoam": 1.41,
+  "sandyLoam": 1.72,
+  "sand": 1.8399999999999999,
+  "CoarseСlasticSoils": 2.08
+ },
+ {
+  "region": "Чувашская Республика",
+  "city": "Чебоксары",
+  "clayAndLoam": 1.55,
+  "sandyLoam": 1.8900000000000001,
+  "sand": 2.02,
+  "CoarseСlasticSoils": 2.29
+ },
+ {
+  "region": "Чукотский АО (Магаданская область)",
+  "city": "Анадырь",
+  "clayAndLoam": 2.51,
+  "sandyLoam": 3.05,
+  "sand": 3.27,
+  "CoarseСlasticSoils": 3.7
+ },
+ {
+  "region": "Чукотский АО (Магаданская область)",
+  "city": "Березово",
+  "clayAndLoam": 2.74,
+  "sandyLoam": 3.34,
+  "sand": 3.58,
+  "CoarseСlasticSoils": 4.05
+ },
+ {
+  "region": "Чукотский АО (Магаданская область)",
+  "city": "Марково",
+  "clayAndLoam": 2.73,
+  "sandyLoam": 3.32,
+  "sand": 3.55,
+  "CoarseСlasticSoils": 4.02
+ },
+ {
+  "region": "Чукотский АО (Магаданская область)",
+  "city": "Омолон",
+  "clayAndLoam": 3.2,
+  "sandyLoam": 3.89,
+  "sand": 4.17,
+  "CoarseСlasticSoils": 4.72
+ },
+ {
+  "region": "Чукотский АО (Магаданская область)",
+  "city": "Островное",
+  "clayAndLoam": 3.06,
+  "sandyLoam": 3.7199999999999998,
+  "sand": 3.99,
+  "CoarseСlasticSoils": 4.52
+ },
+ {
+  "region": "Чукотский АО (Магаданская область)",
+  "city": "Усть-Олой",
+  "clayAndLoam": 3.11,
+  "sandyLoam": 3.7800000000000002,
+  "sand": 4.05,
+  "CoarseСlasticSoils": 4.59
+ },
+ {
+  "region": "Чукотский АО (Магаданская область)",
+  "city": "Эньмувеем",
+  "clayAndLoam": 2.7800000000000002,
+  "sandyLoam": 3.39,
+  "sand": 3.63,
+  "CoarseСlasticSoils": 4.11
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Алдан",
+  "clayAndLoam": 2.55,
+  "sandyLoam": 3.1,
+  "sand": 3.32,
+  "CoarseСlasticSoils": 3.76
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Аллах-Юнь",
+  "clayAndLoam": 3.33,
+  "sandyLoam": 4.05,
+  "sand": 4.34,
+  "CoarseСlasticSoils": 4.92
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Амга",
+  "clayAndLoam": 3.19,
+  "sandyLoam": 3.88,
+  "sand": 4.16,
+  "CoarseСlasticSoils": 4.72
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Батамай",
+  "clayAndLoam": 3.2,
+  "sandyLoam": 3.89,
+  "sand": 4.17,
+  "CoarseСlasticSoils": 4.72
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Бердигястях",
+  "clayAndLoam": 3.12,
+  "sandyLoam": 3.8,
+  "sand": 4.07,
+  "CoarseСlasticSoils": 4.61
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Буяга",
+  "clayAndLoam": 3.01,
+  "sandyLoam": 3.66,
+  "sand": 3.92,
+  "CoarseСlasticSoils": 4.44
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Верхоянск",
+  "clayAndLoam": 3.46,
+  "sandyLoam": 4.21,
+  "sand": 4.51,
+  "CoarseСlasticSoils": 5.11
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Вилюйск",
+  "clayAndLoam": 2.94,
+  "sandyLoam": 3.58,
+  "sand": 3.83,
+  "CoarseСlasticSoils": 4.34
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Витим",
+  "clayAndLoam": 2.52,
+  "sandyLoam": 3.07,
+  "sand": 3.29,
+  "CoarseСlasticSoils": 3.73
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Воронцово",
+  "clayAndLoam": 3.27,
+  "sandyLoam": 3.98,
+  "sand": 4.26,
+  "CoarseСlasticSoils": 4.83
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Джалинда",
+  "clayAndLoam": 3.26,
+  "sandyLoam": 3.96,
+  "sand": 4.25,
+  "CoarseСlasticSoils": 4.81
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Джарджан",
+  "clayAndLoam": 3.14,
+  "sandyLoam": 3.82,
+  "sand": 4.09,
+  "CoarseСlasticSoils": 4.64
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Джикимда",
+  "clayAndLoam": 2.77,
+  "sandyLoam": 3.36,
+  "sand": 3.6,
+  "CoarseСlasticSoils": 4.08
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Дружина",
+  "clayAndLoam": 3.25,
+  "sandyLoam": 3.95,
+  "sand": 4.23,
+  "CoarseСlasticSoils": 4.79
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Екючю",
+  "clayAndLoam": 3.44,
+  "sandyLoam": 4.19,
+  "sand": 4.49,
+  "CoarseСlasticSoils": 5.08
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Жиганск",
+  "clayAndLoam": 3.12,
+  "sandyLoam": 3.79,
+  "sand": 4.06,
+  "CoarseСlasticSoils": 4.6
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Зырянка",
+  "clayAndLoam": 3.09,
+  "sandyLoam": 3.76,
+  "sand": 4.03,
+  "CoarseСlasticSoils": 4.56
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Исить",
+  "clayAndLoam": 2.85,
+  "sandyLoam": 3.4699999999999998,
+  "sand": 3.7199999999999998,
+  "CoarseСlasticSoils": 4.21
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Иэма",
+  "clayAndLoam": 3.5,
+  "sandyLoam": 4.26,
+  "sand": 4.56,
+  "CoarseСlasticSoils": 5.17
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Крест-Хальджай",
+  "clayAndLoam": 3.19,
+  "sandyLoam": 3.89,
+  "sand": 4.16,
+  "CoarseСlasticSoils": 4.72
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Кюсюр",
+  "clayAndLoam": 3.21,
+  "sandyLoam": 3.91,
+  "sand": 4.18,
+  "CoarseСlasticSoils": 4.74
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Ленск",
+  "clayAndLoam": 2.58,
+  "sandyLoam": 3.14,
+  "sand": 3.37,
+  "CoarseСlasticSoils": 3.81
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Нагорный",
+  "clayAndLoam": 2.68,
+  "sandyLoam": 3.27,
+  "sand": 3.5,
+  "CoarseСlasticSoils": 3.96
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Нера",
+  "clayAndLoam": 3.45,
+  "sandyLoam": 4.19,
+  "sand": 4.49,
+  "CoarseСlasticSoils": 5.09
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Нюрба",
+  "clayAndLoam": 2.95,
+  "sandyLoam": 3.59,
+  "sand": 3.84,
+  "CoarseСlasticSoils": 4.35
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Нюя",
+  "clayAndLoam": 2.62,
+  "sandyLoam": 3.18,
+  "sand": 3.41,
+  "CoarseСlasticSoils": 3.86
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Оймякон",
+  "clayAndLoam": 3.51,
+  "sandyLoam": 4.27,
+  "sand": 4.58,
+  "CoarseСlasticSoils": 5.19
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Олекминск",
+  "clayAndLoam": 2.67,
+  "sandyLoam": 3.25,
+  "sand": 3.48,
+  "CoarseСlasticSoils": 3.94
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Оленек",
+  "clayAndLoam": 3.1,
+  "sandyLoam": 3.77,
+  "sand": 4.04,
+  "CoarseСlasticSoils": 4.58
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Охотский Перевоз",
+  "clayAndLoam": 3.23,
+  "sandyLoam": 3.93,
+  "sand": 4.21,
+  "CoarseСlasticSoils": 4.77
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Сангар",
+  "clayAndLoam": 3.08,
+  "sandyLoam": 3.75,
+  "sand": 4.01,
+  "CoarseСlasticSoils": 4.55
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Саскылах",
+  "clayAndLoam": 3.25,
+  "sandyLoam": 3.95,
+  "sand": 4.24,
+  "CoarseСlasticSoils": 4.8
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Среднеколымск",
+  "clayAndLoam": 3.12,
+  "sandyLoam": 3.79,
+  "sand": 4.06,
+  "CoarseСlasticSoils": 4.6
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Сунтар",
+  "clayAndLoam": 2.7800000000000002,
+  "sandyLoam": 3.38,
+  "sand": 3.62,
+  "CoarseСlasticSoils": 4.1
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Сухана",
+  "clayAndLoam": 3.27,
+  "sandyLoam": 3.98,
+  "sand": 4.26,
+  "CoarseСlasticSoils": 4.83
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Сюльдюкар",
+  "clayAndLoam": 3.01,
+  "sandyLoam": 3.67,
+  "sand": 3.93,
+  "CoarseСlasticSoils": 4.45
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Сюрен-Кюель",
+  "clayAndLoam": 3.06,
+  "sandyLoam": 3.73,
+  "sand": 3.99,
+  "CoarseСlasticSoils": 4.52
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Токо",
+  "clayAndLoam": 3.04,
+  "sandyLoam": 3.69,
+  "sand": 3.96,
+  "CoarseСlasticSoils": 4.48
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Томмот",
+  "clayAndLoam": 2.9,
+  "sandyLoam": 3.5300000000000002,
+  "sand": 3.7800000000000002,
+  "CoarseСlasticSoils": 4.28
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Томпо",
+  "clayAndLoam": 3.32,
+  "sandyLoam": 4.04,
+  "sand": 4.33,
+  "CoarseСlasticSoils": 4.91
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Туой-Хая",
+  "clayAndLoam": 2.82,
+  "sandyLoam": 3.43,
+  "sand": 3.67,
+  "CoarseСlasticSoils": 4.16
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Тяня",
+  "clayAndLoam": 2.79,
+  "sandyLoam": 3.4,
+  "sand": 3.64,
+  "CoarseСlasticSoils": 4.12
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Усть-Мая",
+  "clayAndLoam": 3.04,
+  "sandyLoam": 3.69,
+  "sand": 3.96,
+  "CoarseСlasticSoils": 4.48
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Усть-Миль",
+  "clayAndLoam": 3.03,
+  "sandyLoam": 3.68,
+  "sand": 3.94,
+  "CoarseСlasticSoils": 4.47
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Усть-Мома",
+  "clayAndLoam": 3.36,
+  "sandyLoam": 4.09,
+  "sand": 4.38,
+  "CoarseСlasticSoils": 4.96
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Чульман",
+  "clayAndLoam": 2.71,
+  "sandyLoam": 3.29,
+  "sand": 3.5300000000000002,
+  "CoarseСlasticSoils": 4
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Чурапча",
+  "clayAndLoam": 3.23,
+  "sandyLoam": 3.93,
+  "sand": 4.21,
+  "CoarseСlasticSoils": 4.77
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Шелагонцы",
+  "clayAndLoam": 3.22,
+  "sandyLoam": 3.92,
+  "sand": 4.2,
+  "CoarseСlasticSoils": 4.75
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Эйик",
+  "clayAndLoam": 3.11,
+  "sandyLoam": 3.79,
+  "sand": 4.06,
+  "CoarseСlasticSoils": 4.6
+ },
+ {
+  "region": "Якутия Республика Саха",
+  "city": "Якутск",
+  "clayAndLoam": 3.05,
+  "sandyLoam": 3.71,
+  "sand": 3.98,
+  "CoarseСlasticSoils": 4.51
+ },
+ {
+  "region": "Ненецкий АО (Архангельская область)",
+  "city": "Варандей",
+  "clayAndLoam": 2.22,
+  "sandyLoam": 2.7,
+  "sand": 2.89,
+  "CoarseСlasticSoils": 3.27
+ },
+ {
+  "region": "Ненецкий АО (Архангельская область)",
+  "city": "Индига",
+  "clayAndLoam": 1.8599999999999999,
+  "sandyLoam": 2.26,
+  "sand": 2.42,
+  "CoarseСlasticSoils": 2.74
+ },
+ {
+  "region": "Ненецкий АО (Архангельская область)",
+  "city": "Канин Нос",
+  "clayAndLoam": 1.44,
+  "sandyLoam": 1.76,
+  "sand": 1.88,
+  "CoarseСlasticSoils": 2.13
+ },
+ {
+  "region": "Ненецкий АО (Архангельская область)",
+  "city": "Коткино",
+  "clayAndLoam": 2.03,
+  "sandyLoam": 2.47,
+  "sand": 2.65,
+  "CoarseСlasticSoils": 3
+ },
+ {
+  "region": "Ненецкий АО (Архангельская область)",
+  "city": "Нарьян-Мар",
+  "clayAndLoam": 2.05,
+  "sandyLoam": 2.49,
+  "sand": 2.67,
+  "CoarseСlasticSoils": 3.02
+ },
+ {
+  "region": "Ненецкий АО (Архангельская область)",
+  "city": "Ходовариха",
+  "clayAndLoam": 2.07,
+  "sandyLoam": 2.52,
+  "sand": 2.7,
+  "CoarseСlasticSoils": 3.06
+ },
+ {
+  "region": "Ненецкий АО (Архангельская область)",
+  "city": "Хоседа-Хард",
+  "clayAndLoam": 2.25,
+  "sandyLoam": 2.73,
+  "sand": 2.93,
+  "CoarseСlasticSoils": 3.32
+ },
+ {
+  "region": "Ярославская область",
+  "city": "Ярославль",
+  "clayAndLoam": 1.44,
+  "sandyLoam": 1.75,
+  "sand": 1.87,
+  "CoarseСlasticSoils": 2.12
+ }]
+}
